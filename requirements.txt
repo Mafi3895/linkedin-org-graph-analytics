@@ -1,0 +1,24 @@
+# ==============================================================================
+# Hugging Face Organizational Network & ML Pipeline - Requirements
+# ==============================================================================
+
+# Core Data Collection & Parsing
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Data Validation & Schemas
+pydantic>=2.0.0
+
+# Graph Theory & Network Analysis
+networkx>=3.0.0
+
+# Machine Learning & Scientific Computing
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Data & Network Visualization
+matplotlib>=3.7.0
+
+# Testing & Quality Assurance
+pytest>=7.4.0
