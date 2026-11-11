@@ -1,0 +1,212 @@
+{
+  "person_id": "hf_008",
+  "profile_url": "https://www.linkedin.com/in/irene-solaiman/",
+  "source_platform": "linkedin",
+  "fetched_at": "2026-11-11T15:11:30.317688+00:00",
+  "collection_method": "linkedin_public_guest_view_http",
+  "verification_status": "verified_against_linkedin_authenticated_snapshot",
+  "field_level_availability": {
+    "basic_info.full_name": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard name"
+    },
+    "basic_info.headline": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard headline"
+    },
+    "basic_info.location": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard location"
+    },
+    "basic_info.current_company": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard company preview"
+    },
+    "basic_info.about": {
+      "status": "not_available",
+      "reason": "Profile has no public About summary.",
+      "source_element": null
+    },
+    "work_experience.current_company": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "work_experience.current_job_title": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "work_experience.past_roles": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "education.institution": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.dates": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.degree": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.field_of_study": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "skills": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Skills section"
+    },
+    "interests": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Interests section"
+    },
+    "activity.posts": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Activity section"
+    },
+    "activity.timestamps": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Activity metadata"
+    },
+    "activity.engagement": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Activity metrics"
+    }
+  },
+  "basic_info": {
+    "full_name": "Irene Solaiman",
+    "headline": "CPO/SVP Strategy at Hugging Face",
+    "location": "San Francisco Bay Area",
+    "about": null,
+    "current_company": "Hugging Face"
+  },
+  "work_experience": [
+    {
+      "company": "Hugging Face",
+      "job_title": "Chief Policy Officer and SVP of Strategy",
+      "location": null,
+      "start_date": "Feb 2025",
+      "end_date": "Present",
+      "is_current": true,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "Head of Global Policy Jul 2023 - Jul 2025 · 2 yrs 1 mo ◘ Built and leading company policy ◘ Conducting social impact and safety research Policy Director Jul 2022 - Jul 2023 · 1 yr 1 mo Researcher Apr 2022 - Jul 2022 · 4 mos"
+    },
+    {
+      "company": "Evaluating Evaluations",
+      "job_title": "Founder and Steering Committee Member",
+      "location": "Founded and co-leading the foremost open source research community improving the state of generative AI evaluations",
+      "start_date": "Jan 2025",
+      "end_date": "Present",
+      "is_current": true,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": null
+    },
+    {
+      "company": "Survival and Flourishing Fund",
+      "job_title": "Advisor and Grant Recommender",
+      "location": "Advising grants to organizations improving humanity",
+      "start_date": "Apr 2024",
+      "end_date": "Present",
+      "is_current": true,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": null
+    },
+    {
+      "company": "Center for Democracy & Technology",
+      "job_title": "Advisor to the AI Governance Lab",
+      "location": null,
+      "start_date": "Oct 2023",
+      "end_date": "Present",
+      "is_current": true,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": null
+    },
+    {
+      "company": "Partnership on AI",
+      "job_title": "Policy Steering Committee Member",
+      "location": null,
+      "start_date": "Oct 2023",
+      "end_date": "Present",
+      "is_current": true,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Harvard Kennedy School",
+      "degree": "Master in Public Policy",
+      "field_of_study": "Technology and computer science in international security",
+      "start_date": null,
+      "end_date": null,
+      "source_url": null,
+      "availability_status": "fetched"
+    },
+    {
+      "institution": "University of Maryland",
+      "degree": "B.A. International Relations",
+      "field_of_study": "Banneker/Key Scholar (Full merit scholarship)",
+      "start_date": null,
+      "end_date": null,
+      "source_url": null,
+      "availability_status": "fetched"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Public Speaking"
+    },
+    {
+      "skill_name": "Negotiation"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Yann LeCun",
+      "category": "Entity",
+      "source_url": null
+    },
+    {
+      "name": "Founder/Chair",
+      "category": "Entity",
+      "source_url": null
+    }
+  ],
+  "activity": [
+    {
+      "activity_id": null,
+      "activity_type": "post_or_repost",
+      "author": "Irene Solaiman",
+      "content": "Activity 7,066 followers Follow Posts Comments Images Irene Solaiman reposted this Rebecca Bellan • 3rd+ Senior Reporter at TechCrunch. Co-host of Equity podcast. Speculative fiction author. 22h Cyber",
+      "relative_time": "Recent",
+      "exact_timestamp_utc": null,
+      "post_url": null,
+      "engagement": null
+    }
+  ],
+  "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+}

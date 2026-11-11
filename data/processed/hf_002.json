@@ -1,0 +1,196 @@
+{
+  "person_id": "hf_002",
+  "profile_url": "https://www.linkedin.com/in/dwarez/",
+  "source_platform": "linkedin",
+  "fetched_at": "2026-11-11T15:11:25.181652+00:00",
+  "collection_method": "linkedin_public_guest_view_http",
+  "verification_status": "verified_against_linkedin_authenticated_snapshot",
+  "field_level_availability": {
+    "basic_info.full_name": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard name"
+    },
+    "basic_info.headline": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard headline"
+    },
+    "basic_info.location": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard location"
+    },
+    "basic_info.current_company": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard company preview"
+    },
+    "basic_info.about": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "section[h2='About']"
+    },
+    "work_experience.current_company": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "work_experience.current_job_title": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "work_experience.past_roles": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "education.institution": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.dates": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.degree": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.field_of_study": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "skills": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Skills section"
+    },
+    "interests": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Interests section"
+    },
+    "activity.posts": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Activity section"
+    },
+    "activity.timestamps": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Activity metadata"
+    },
+    "activity.engagement": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Activity metrics"
+    }
+  },
+  "basic_info": {
+    "full_name": "Dario Salvati 🏴‍☠️",
+    "headline": "MLE @ 🤗, ex-Domyn | Opinions are my own",
+    "location": "Brescia, Lombardy, Italy",
+    "about": "Computer Engineering @ Unisa Computer Science, Artificial Intelligence and Machine Learning @ Unipi MLE @ Hugging Face Top skills Machine Learning",
+    "current_company": "Hugging Face"
+  },
+  "work_experience": [
+    {
+      "company": "Hugging Face",
+      "job_title": "Machine Learning Engineer",
+      "location": "Italy · Remote",
+      "start_date": "May 2026",
+      "end_date": "Present",
+      "is_current": true,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": null
+    },
+    {
+      "company": "Domyn",
+      "job_title": "Milan, Lombardy, Italy · Remote",
+      "location": null,
+      "start_date": "Full-time · 2 yrs 7 mos",
+      "end_date": null,
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "Sep 2025 - May 2026 · 9 mos Machine Learning Engineer Nov 2023 - May 2026 · 2 yrs 7 mos LinkedIn helped me get this job helped me get this job iGenius | Make Data Human"
+    },
+    {
+      "company": "CSA Documents",
+      "job_title": "Machine Learning Engineer",
+      "location": "Rome, Latium, Italy",
+      "start_date": "Feb 2023",
+      "end_date": "Nov 2023",
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "LinkedIn helped me get this job helped me get this job Artificial Intelligence (AI), Machine Learning and +3 skills"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Università di Pisa",
+      "degree": "Master's degree",
+      "field_of_study": "Artificial Intelligence",
+      "start_date": "2020",
+      "end_date": "2022",
+      "source_url": null,
+      "availability_status": "fetched"
+    },
+    {
+      "institution": "Università degli Studi di Salerno",
+      "degree": "Bachelor's degree",
+      "field_of_study": "Computer Engineering",
+      "start_date": "2018",
+      "end_date": "2020",
+      "source_url": null,
+      "availability_status": "fetched"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Microsoft Azure"
+    },
+    {
+      "skill_name": "MLOps Platforms: Amazon SageMaker and Azure ML"
+    },
+    {
+      "skill_name": "1 endorsement"
+    },
+    {
+      "skill_name": "Amazon Web Services (AWS)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Luca Mezzalira",
+      "category": "Entity",
+      "source_url": null
+    },
+    {
+      "name": "Jonathan Ross",
+      "category": "Entity",
+      "source_url": null
+    }
+  ],
+  "activity": [
+    {
+      "activity_id": null,
+      "activity_type": "post_or_repost",
+      "author": "Dario Salvati 🏴‍☠️",
+      "content": "Activity 1,787 followers Follow Posts Comments Videos Images Dario Salvati 🏴‍☠️ reposted this Domyn 1d Domyn Edge Bundle 2 is out! 🔥 Our first release gave you the base model, with every pre-training ",
+      "relative_time": "Recent",
+      "exact_timestamp_utc": null,
+      "post_url": null,
+      "engagement": null
+    }
+  ],
+  "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+}

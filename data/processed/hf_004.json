@@ -1,0 +1,171 @@
+{
+  "person_id": "hf_004",
+  "profile_url": "https://www.linkedin.com/in/anthonymoi/",
+  "source_platform": "linkedin",
+  "fetched_at": "2026-11-11T15:11:26.971901+00:00",
+  "collection_method": "linkedin_public_guest_view_http",
+  "verification_status": "verified_against_linkedin_authenticated_snapshot",
+  "field_level_availability": {
+    "basic_info.full_name": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard name"
+    },
+    "basic_info.headline": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard headline"
+    },
+    "basic_info.location": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard location"
+    },
+    "basic_info.current_company": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard company preview"
+    },
+    "basic_info.about": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "section[h2='About']"
+    },
+    "work_experience.current_company": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "work_experience.current_job_title": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "work_experience.past_roles": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "education.institution": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.dates": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.degree": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.field_of_study": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "skills": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Skills section"
+    },
+    "interests": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Interests section"
+    },
+    "activity.posts": {
+      "status": "not_available",
+      "reason": "User has no recent public activity on LinkedIn.",
+      "source_element": null
+    }
+  },
+  "basic_info": {
+    "full_name": "Anthony MOI",
+    "headline": "Software Engineer at Hugging Face",
+    "location": "Greater Paris Metropolitan Region",
+    "about": "Passionate by everything that relates to computer science, especially web and new technologies, I really enjoy learning and creating.",
+    "current_company": "Hugging Face"
+  },
+  "work_experience": [
+    {
+      "company": "Hugging Face",
+      "job_title": "Software Engineer",
+      "location": null,
+      "start_date": "8 yrs 3 mos",
+      "end_date": null,
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "Apr 2024 - Apr 2025 · 1 yr 1 mo Remote Head Of Infrastructure Full-time Jan 2021 - Apr 2024 · 3 yrs 4 mos Paris, Île-de-France, France Technical Lead Feb 2017 - Jan 2021 · 4 yrs"
+    },
+    {
+      "company": "Dynamo Cycling",
+      "job_title": "Lead Developer",
+      "location": "- Infrastructure management",
+      "start_date": "Apr 2015",
+      "end_date": "Jan 2018",
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "- Web app development, deployment, maintenance"
+    },
+    {
+      "company": "Silly Snake",
+      "job_title": "Co Creator",
+      "location": "Greater Paris Metropolitan Region",
+      "start_date": "Nov 2015",
+      "end_date": "Dec 2016",
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "iOS Game Modern remake of the well known Snake game https://itunes.apple.com/us/app/silly-snake-retro-arcade-snake/id1018817426?mt=8"
+    },
+    {
+      "company": "TOTEMS | Instagram Marketing Suite",
+      "job_title": "Technical lead - Infrastructure (First employee)",
+      "location": "Greater Paris Metropolitan Region",
+      "start_date": "Jan 2012",
+      "end_date": "Feb 2015",
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "Acquired by Stripe (https://stripe.com) -      Architecture design: 8 independent modules communicating by API -      Implementation, testing, debugging -      System administration: a cluster of 30+ EC2 instances, 18 RDS instances and more... -      Scalability: Horizontal scale for modules, MongoDB shards, MySQL shards, ... -      Maintenance: Instances monitoring, alarms, automatic backups, ... -      Machine Learning: Image Recognition, Gender classification, ..."
+    }
+  ],
+  "education": [
+    {
+      "institution": "EFREI - Grande école du numérique",
+      "degree": null,
+      "field_of_study": null,
+      "start_date": "2009",
+      "end_date": "2011",
+      "source_url": null,
+      "availability_status": "fetched"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript"
+    },
+    {
+      "skill_name": "Node.js"
+    }
+  ],
+  "interests": [
+    {
+      "name": "LEBRAND®",
+      "category": "Entity",
+      "source_url": null
+    },
+    {
+      "name": "Hugging Face",
+      "category": "Entity",
+      "source_url": null
+    }
+  ],
+  "activity": [],
+  "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+}

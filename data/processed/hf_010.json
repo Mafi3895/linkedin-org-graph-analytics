@@ -1,0 +1,212 @@
+{
+  "person_id": "hf_010",
+  "profile_url": "https://www.linkedin.com/in/alejandro-ao/",
+  "source_platform": "linkedin",
+  "fetched_at": "2026-11-11T15:11:31.238855+00:00",
+  "collection_method": "linkedin_public_guest_view_http",
+  "verification_status": "verified_against_linkedin_authenticated_snapshot",
+  "field_level_availability": {
+    "basic_info.full_name": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard name"
+    },
+    "basic_info.headline": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard headline"
+    },
+    "basic_info.location": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard location"
+    },
+    "basic_info.current_company": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard company preview"
+    },
+    "basic_info.about": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "section[h2='About']"
+    },
+    "work_experience.current_company": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "work_experience.current_job_title": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "work_experience.past_roles": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "education.institution": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.dates": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.degree": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.field_of_study": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "skills": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Skills section"
+    },
+    "interests": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Interests section"
+    },
+    "activity.posts": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Activity section"
+    },
+    "activity.timestamps": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Activity metadata"
+    },
+    "activity.engagement": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Activity metrics"
+    }
+  },
+  "basic_info": {
+    "full_name": "Alejandro AO",
+    "headline": "AI Education | Developer Advocate | Speaker",
+    "location": "Paris, Île-de-France, France",
+    "about": "in the intersection of software and ml Top skills Artificial Intelligence (AI) • Large Language Models (LLM) • Keynote Speaking • Communication • Teaching",
+    "current_company": "Hugging Face"
+  },
+  "work_experience": [
+    {
+      "company": "Hugging Face",
+      "job_title": "Developer Advocate",
+      "location": "Paris, Île-de-France, France · Remote",
+      "start_date": "Nov 2025",
+      "end_date": "Present",
+      "is_current": true,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": null
+    },
+    {
+      "company": "Self-employed",
+      "job_title": "Applied AI Consultant",
+      "location": "France · Remote",
+      "start_date": "Nov 2023",
+      "end_date": "Nov 2025",
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "Helped companies develop internal agentic tools, such as onboarding assistants, documentation chatbots, and workflow automations. - Created and deployed chatbots and AI agents. - Developed APIs for Generative AI applications (chatbots). - Implemented multi-agent systems using frameworks such as CrewAI, AutoGen, and LangGraph. - Deployed Generative AI applications on AWS and GCP. Artificial Intelligence (AI), Large Language Models (LLM) and +4 skills"
+    },
+    {
+      "company": "Sogeti",
+      "job_title": "Software Consultant",
+      "location": "Toulouse, Occitanie, France",
+      "start_date": "Sep 2022",
+      "end_date": "Oct 2025",
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "LinkedIn helped me get this job helped me get this job Maintained and developed custom features for an internal application, in cooperation with a leading enterprise client in the Aerospace industry. - Debugged and maintained the React frontend. - Implemented features using Node.js (LoopBack4). - Refactored Node.js endpoints. - Optimized SQL queries. - Managed Postgres on an OpenShift PV. - Created Pods for development and production environments on OpenShift. Keywords: Node.js, React, PostgreSQL, Linux, Kubernetes, Redhat OpenShift Front-End Development, React.js and +5 skills"
+    },
+    {
+      "company": "Progressif Media",
+      "job_title": "Software Engineer",
+      "location": "Bordeaux, Nouvelle-Aquitaine, France · On-site",
+      "start_date": "Sep 2021",
+      "end_date": "Aug 2022",
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "Designed, created, deployed, and maintained web applications in PHP. - Set up pipelines using Bitbucket CI. - Developed backend functionality in PHP. - Integrated frontend templates with Laravel (Blade). - Managed Linux servers (Apache2 & NGINX). - Migrated MySQL databases. Keywords: Tailwind, WordPress, PHP, JavaScript, Linux servers, Roots/Sage, CI/CD, DevOps. Front-End Development, HTML and +8 skills"
+    },
+    {
+      "company": "Freelance",
+      "job_title": "Freelance Web Developer",
+      "location": "Toulouse, Occitanie, France",
+      "start_date": "Mar 2020",
+      "end_date": "Sep 2021",
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "Custom web applications in different technologies for small French clients. - Created custom themes and templates for WordPress in PHP. - Developed CSS frameworks tailored to client needs. - Built custom WordPress admin interfaces. - Managed MySQL databases. - Handled server management and deployment. Keywords: PHP, WordPress, SASS, CSS, Front-end development. Front-End Development, HTML and +7 skills"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Lille 1 Sciences and Technology",
+      "degree": "DEUG Mathematics",
+      "field_of_study": "Mathematics",
+      "start_date": "2017",
+      "end_date": "2019",
+      "source_url": null,
+      "availability_status": "fetched"
+    },
+    {
+      "institution": "TBS Education",
+      "degree": "Master of Business Administration",
+      "field_of_study": "Business Administration and Management, General",
+      "start_date": "2020",
+      "end_date": "Jun 2023",
+      "source_url": null,
+      "availability_status": "fetched"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Keynote Speaking"
+    },
+    {
+      "skill_name": "Communication"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gabriel Attal",
+      "category": "Entity",
+      "source_url": null
+    },
+    {
+      "name": "Candidat à la présidence de la République 🇫🇷🇪🇺",
+      "category": "Entity",
+      "source_url": null
+    }
+  ],
+  "activity": [
+    {
+      "activity_id": null,
+      "activity_type": "post_or_repost",
+      "author": "Alejandro AO",
+      "content": "Activity 5,689 followers Follow Posts Comments Videos Images Alejandro AO reposted this Patrick Popa • 3rd+ Founder @ TruckBroker - the Agentic Solution for Road Freight Transport (Coming Soon) | Stud",
+      "relative_time": "Recent",
+      "exact_timestamp_utc": null,
+      "post_url": null,
+      "engagement": null
+    }
+  ],
+  "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+}

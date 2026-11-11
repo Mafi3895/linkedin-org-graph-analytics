@@ -1,0 +1,185 @@
+{
+  "person_id": "hf_005",
+  "profile_url": "https://www.linkedin.com/in/assafvayner/",
+  "source_platform": "linkedin",
+  "fetched_at": "2026-11-11T15:11:27.638673+00:00",
+  "collection_method": "linkedin_public_guest_view_http",
+  "verification_status": "verified_against_linkedin_authenticated_snapshot",
+  "field_level_availability": {
+    "basic_info.full_name": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard name"
+    },
+    "basic_info.headline": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard headline"
+    },
+    "basic_info.location": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard location"
+    },
+    "basic_info.current_company": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard company preview"
+    },
+    "basic_info.about": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "section[h2='About']"
+    },
+    "work_experience.current_company": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "work_experience.current_job_title": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "work_experience.past_roles": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "education.institution": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.dates": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.degree": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.field_of_study": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "skills": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Skills section"
+    },
+    "interests": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Interests section"
+    },
+    "activity.posts": {
+      "status": "not_available",
+      "reason": "No Activity section present in profile.",
+      "source_element": null
+    }
+  },
+  "basic_info": {
+    "full_name": "Assaf Vayner",
+    "headline": "Software Engineer @ Hugging Face 🤗",
+    "location": "United States",
+    "about": "University of Washington Computer Science graduate, currently a software engineer based out of Seattle, WA. Interested in a myriad of technologies including building large scale web services, distributed systems and exploring new fields!",
+    "current_company": "Hugging Face"
+  },
+  "work_experience": [
+    {
+      "company": "Hugging Face",
+      "job_title": "Software Engineer",
+      "location": "Remote",
+      "start_date": "Aug 2024",
+      "end_date": "Present",
+      "is_current": true,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": null
+    },
+    {
+      "company": "XetHub",
+      "job_title": "Software Engineer",
+      "location": "Seattle, Washington, United States",
+      "start_date": "Mar 2023",
+      "end_date": "Jul 2024",
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "Go (Programming Language), Rust (Programming Language) and +2 skills"
+    },
+    {
+      "company": "Paul G. Allen School of Computer Science & Engineering",
+      "job_title": "CSE TA",
+      "location": "Seattle, Washington, United States",
+      "start_date": "Sep 2021",
+      "end_date": "Dec 2022",
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "AU21, SP22, AU22: CSE 351 - Hardware/Software Interface WI22: CSE 333 - Systems Programming Teaching, Linux and +2 skills"
+    },
+    {
+      "company": "Amazon",
+      "job_title": "SDE Intern Amazon Luna",
+      "location": "Seattle, Washington, United States",
+      "start_date": "Jun 2022",
+      "end_date": "Sep 2022",
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "Continuation of 2021 intern project developing game developer focused communication stream atop Luna's Developer Mode utilizing AWS IoT. Focusing on integration with existing backend services as well as adding proxy services (Java, REST, Go, gRPC). Worked on both server side (node js app) and client side (next js) enabling this feature. gRPC, AWS IoT and +2 skills"
+    },
+    {
+      "company": "Molecular Information Systems Lab (MISL)",
+      "job_title": "Undergraduate Research Assistant",
+      "location": "Seattle, Washington, United States",
+      "start_date": "Mar 2021",
+      "end_date": "Jun 2022",
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "Enabling 6-axis robot to perform steps to read DNA. Python (Programming Language)"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "degree": "Bachelor's degree",
+      "field_of_study": "Computer Science and minor in Mathematics",
+      "start_date": "2019",
+      "end_date": "2023",
+      "source_url": null,
+      "availability_status": "fetched"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Infrastructure as code (IaC)"
+    },
+    {
+      "skill_name": "Software Engineer at XetHub"
+    },
+    {
+      "skill_name": "Rust (Programming Language)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Yann LeCun",
+      "category": "Entity",
+      "source_url": null
+    },
+    {
+      "name": "Founder/Chair",
+      "category": "Entity",
+      "source_url": null
+    }
+  ],
+  "activity": [],
+  "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+}

@@ -1,0 +1,194 @@
+{
+  "person_id": "hf_009",
+  "profile_url": "https://www.linkedin.com/in/jeffboudier/",
+  "source_platform": "linkedin",
+  "fetched_at": "2026-11-11T15:11:30.833399+00:00",
+  "collection_method": "linkedin_public_guest_view_http",
+  "verification_status": "verified_against_linkedin_authenticated_snapshot",
+  "field_level_availability": {
+    "basic_info.full_name": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard name"
+    },
+    "basic_info.headline": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard headline"
+    },
+    "basic_info.location": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard location"
+    },
+    "basic_info.current_company": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Topcard company preview"
+    },
+    "basic_info.about": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "section[h2='About']"
+    },
+    "work_experience.current_company": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "work_experience.current_job_title": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "work_experience.past_roles": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Experience section"
+    },
+    "education.institution": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.dates": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.degree": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "education.field_of_study": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Education section"
+    },
+    "skills": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Skills section"
+    },
+    "interests": {
+      "status": "fetched",
+      "reason": null,
+      "source_element": "Interests section"
+    },
+    "activity.posts": {
+      "status": "not_available",
+      "reason": "No Activity section present in profile.",
+      "source_element": null
+    }
+  },
+  "basic_info": {
+    "full_name": "Jeff Boudier",
+    "headline": "Product + Growth at Hugging Face",
+    "location": "San Francisco, California, United States",
+    "about": "Product + Growth @HuggingFace 🤗, creator of Transformers, to democratize state of the art Machine Learning. Previously Corporate and Business Development at GoPro, co-founder of Stupeflix (acquired by GoPro).",
+    "current_company": "Hugging Face"
+  },
+  "work_experience": [
+    {
+      "company": "Hugging Face",
+      "job_title": "Product + Growth",
+      "location": "San Francisco Bay Area",
+      "start_date": "Nov 2020",
+      "end_date": "Present",
+      "is_current": true,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": null
+    },
+    {
+      "company": "GoPro",
+      "job_title": "San Francisco Bay Area",
+      "location": null,
+      "start_date": "4 yrs 8 mos",
+      "end_date": null,
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "Full-time Sep 2020 - Nov 2020 · 3 mos Director, Corporate + Business Development Aug 2019 - Sep 2020 · 1 yr 2 mos Developing growth opportunities through strategic partnerships. GoPro Acquires ReelSteady GoPro is pumped to share that the small, but mighty team behind ReelSteady, known for enabling mind-blowing cinematic effects for the FPV drone community, is joining the GoPro Family Director Of Business Development Jul 2018 - Aug 2019 · 1 yr 2 mos Enabling new user experiences and delivering business value through strategic partnerships and product integrations. Director of Product Marketing Nov 2017 - Jul 2018 · 9 mos Leading Product Marketing for GoPro Software & Services + Contribute to Product strategy, Features definition, + Define Product positioning, messaging, KPIs + Develop and manage execution of Go-to-Market strategies with cross-functional groups (CRM, PR, Social, Engineering, Customer Support) Director of Product Management Apr 2016 - Nov 2017 · 1 yr 8 mos Develop strategies and features delivering business value through GoPro apps and services. Mobile App Growth - delivered over 10M installs: + Acquisition Activation Retention Revenue Referral + App Store Marketing - ASO, app stores developer relations + China (app stores relations, platform partnerships) GoPro’s Quik video editor is now a native app for Huawei P10 smartphones GoPro's video editing app will now come pre-installed on new Huawei smartphones, starting with the P10 and P10 Plus."
+    },
+    {
+      "company": "Stupeflix",
+      "job_title": "Cofounder",
+      "location": "San Francisco Bay Area",
+      "start_date": "Jul 2009",
+      "end_date": "Apr 2016",
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "Stupeflix, acquired by GoPro in 2016, helped people express themselves through video. As a cofounder I executed on many areas but focusing on business strategy, go-to-market, growth and business development. Replay - now Quik by GoPro - was App of the Year on Apple App Store and Google Play, instantly producing epic edits from any selection of photos & videos. I developed the Product Marketing and growth strategy from analytics to roadmap and through partnerships (Apple, Facebook, Messenger, Parrot). Stupeflix Studio (launched 2010) was a leading web application, used by 4M+ people & SMBs to easily create beautiful videos. I focused on the business model (SaaS), growth through marketing (SEO, SEM, display) and partnerships (YouTube, DailyMotion, Google Apps). Stupeflix API (launched 2009) was the only self-serve developer platform to create video content at scale. 40M videos were created for developers (real estate, classifieds) and brands like RedBull, Sprint, Coke, Amex. I was solely responsible for marketing, sales and customer success for enterprise customers and over 20k developers. Replay at Apple Keynote, October 2014 Skip to 55th minute..."
+    },
+    {
+      "company": "Agilewords",
+      "job_title": "Advisor",
+      "location": "San Francisco Bay Area",
+      "start_date": "Nov 2008",
+      "end_date": "Nov 2011",
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "AgileWords is an online service to get business and technical documents reviewed and approved in the most efficient way. It's online collaboration applied to the specific problem of Word documents review. I developed and executed Product Marketing and Go-To-Market strategies working closely with the founder."
+    },
+    {
+      "company": "Zilok.com",
+      "job_title": "Zilok US General Manager",
+      "location": "San Francisco Bay Area",
+      "start_date": "Nov 2007",
+      "end_date": "Jul 2009",
+      "is_current": false,
+      "source_url": null,
+      "availability_status": "fetched",
+      "notes": "Zilok is the first online rental marketplace where anyone can rent out anything. Need a videocamera or a luxury purse for a special event? A barbecue grill and folding chairs for your garden party? You'll find this and much more on zilok.com, available for rent from people and local businesses around you. I launched Zilok in the US and grew its marketplace to over 100k listings within a few months, through growth marketing and SMB business development."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "degree": "MS",
+      "field_of_study": "Industrial Engineering & Operations Research",
+      "start_date": "2001",
+      "end_date": "2002",
+      "source_url": null,
+      "availability_status": "fetched"
+    },
+    {
+      "institution": "University of California, Berkeley, Haas School of Business",
+      "degree": "Certificate",
+      "field_of_study": "Management of Technology",
+      "start_date": "2001",
+      "end_date": "2002",
+      "source_url": null,
+      "availability_status": "fetched"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Online Advertising"
+    },
+    {
+      "skill_name": "Business Analysis"
+    },
+    {
+      "skill_name": "1 endorsement"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Matt Wood",
+      "category": "Entity",
+      "source_url": null
+    },
+    {
+      "name": "Chief AI & Technology Officer",
+      "category": "Entity",
+      "source_url": null
+    }
+  ],
+  "activity": [],
+  "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+}

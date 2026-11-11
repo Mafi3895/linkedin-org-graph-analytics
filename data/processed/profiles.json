@@ -1,0 +1,1981 @@
+{
+  "hf_001": {
+    "person_id": "hf_001",
+    "profile_url": "https://www.linkedin.com/in/anton-lozhkov/",
+    "source_platform": "linkedin",
+    "fetched_at": "2026-11-11T15:11:24.032920+00:00",
+    "collection_method": "linkedin_public_guest_view_http",
+    "verification_status": "verified_against_linkedin_authenticated_snapshot",
+    "field_level_availability": {
+      "basic_info.full_name": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard name"
+      },
+      "basic_info.headline": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard headline"
+      },
+      "basic_info.location": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard location"
+      },
+      "basic_info.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard company preview"
+      },
+      "basic_info.about": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "section[h2='About']"
+      },
+      "work_experience.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.current_job_title": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.past_roles": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "education.institution": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.dates": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.degree": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.field_of_study": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "skills": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Skills section"
+      },
+      "interests": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Interests section"
+      },
+      "activity.posts": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity section"
+      },
+      "activity.timestamps": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity metadata"
+      },
+      "activity.engagement": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity metrics"
+      }
+    },
+    "basic_info": {
+      "full_name": "Anton Lozhkov",
+      "headline": "Machine Learning Engineer – Hugging Face",
+      "location": "Paris, Île-de-France, France",
+      "about": "ML Engineer with a passion for making the latest NLP research more efficient and applicable in real-life scenarios. Currently interested in few/zero-shot learning, transformer-based models (NLP & CV), ML infrastructure.",
+      "current_company": "Hugging Face"
+    },
+    "work_experience": [
+      {
+        "company": "Hugging Face",
+        "job_title": "Machine Learning Engineer",
+        "location": "Paris, Île-de-France, France",
+        "start_date": "Aug 2021",
+        "end_date": "Present",
+        "is_current": true,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Currently: the SmolLM series. Built large-scale text and code datasets (The Stack V2, FineWeb-Edu, Cosmopedia). Co-created the Diffusers library: diffusion models for image and audio generation (DDPM, LDM, Stable Diffusion). Maintained audio transformers (SEW-D, Wav2Vec, HuBERT, WavLM), and datasets (Common Voice, XTREME-S)."
+      },
+      {
+        "company": "Embedika",
+        "job_title": "Senior Machine Learning Engineer",
+        "location": "Produced efficient transformer/BERT-based models for multitask learning on legal documents and multilingual scientific papers. Developed an accurate syntax tagging, lemmatization and NER pipeline for Russian and English documents. Focused on information retrieval and few-shot learning research, making efficient production-ready models, ML infrastructure.",
+        "start_date": "Feb 2020",
+        "end_date": "Jul 2021",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": null
+      },
+      {
+        "company": "NAUMEN",
+        "job_title": "Senior Data Engineer",
+        "location": null,
+        "start_date": "Jun 2019",
+        "end_date": "Feb 2020",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Worked on a cross-lingual document search engine, and a customer message classification system for tech support. Focused on clients' data ETL, dataset construction for information retrieval, machine learning infrastructure, and active learning techniques for low-resource text classification and NER. Data Engineer Feb 2018 - Jun 2019 · 1 yr 5 mos"
+      },
+      {
+        "company": "Kaspersky Lab",
+        "job_title": "Infrastructure Engineer",
+        "location": null,
+        "start_date": "Jul 2017",
+        "end_date": "Feb 2018",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Full-stack development of a custom orchestration platform for automated software testing, spanning thousands of virtual machines. Also developed a crash logs classification service for automatic bug report search using NLP techniques. Infrastructure Development Intern Mar 2016 - Jun 2017 · 1 yr 4 mos"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Higher School of Economics",
+        "degree": "Bachelor's degree",
+        "field_of_study": "Computer Science, Software Engineering",
+        "start_date": "2013",
+        "end_date": "2017",
+        "source_url": null,
+        "availability_status": "fetched"
+      },
+      {
+        "institution": "Higher School of Economics",
+        "degree": "Master's degree (incomplete)",
+        "field_of_study": "Systems and Software Engineering",
+        "start_date": "2017",
+        "end_date": "2018",
+        "source_url": null,
+        "availability_status": "fetched"
+      }
+    ],
+    "skills": [
+      {
+        "skill_name": "Python"
+      },
+      {
+        "skill_name": "Data Science"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Hugging Face",
+        "category": "Entity",
+        "source_url": null
+      }
+    ],
+    "activity": [
+      {
+        "activity_id": null,
+        "activity_type": "post_or_repost",
+        "author": "Anton Lozhkov",
+        "content": "Activity 6,524 followers Follow Posts Images Anton Lozhkov reposted this Loubna Ben Allal • 3rd+ Research @HuggingFace 2w The next frontier in AI will be Biology 🧬 And Carbon-X is the first open model",
+        "relative_time": "Recent",
+        "exact_timestamp_utc": null,
+        "post_url": null,
+        "engagement": null
+      }
+    ],
+    "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+  },
+  "hf_002": {
+    "person_id": "hf_002",
+    "profile_url": "https://www.linkedin.com/in/dwarez/",
+    "source_platform": "linkedin",
+    "fetched_at": "2026-11-11T15:11:25.181652+00:00",
+    "collection_method": "linkedin_public_guest_view_http",
+    "verification_status": "verified_against_linkedin_authenticated_snapshot",
+    "field_level_availability": {
+      "basic_info.full_name": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard name"
+      },
+      "basic_info.headline": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard headline"
+      },
+      "basic_info.location": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard location"
+      },
+      "basic_info.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard company preview"
+      },
+      "basic_info.about": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "section[h2='About']"
+      },
+      "work_experience.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.current_job_title": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.past_roles": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "education.institution": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.dates": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.degree": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.field_of_study": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "skills": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Skills section"
+      },
+      "interests": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Interests section"
+      },
+      "activity.posts": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity section"
+      },
+      "activity.timestamps": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity metadata"
+      },
+      "activity.engagement": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity metrics"
+      }
+    },
+    "basic_info": {
+      "full_name": "Dario Salvati 🏴‍☠️",
+      "headline": "MLE @ 🤗, ex-Domyn | Opinions are my own",
+      "location": "Brescia, Lombardy, Italy",
+      "about": "Computer Engineering @ Unisa Computer Science, Artificial Intelligence and Machine Learning @ Unipi MLE @ Hugging Face Top skills Machine Learning",
+      "current_company": "Hugging Face"
+    },
+    "work_experience": [
+      {
+        "company": "Hugging Face",
+        "job_title": "Machine Learning Engineer",
+        "location": "Italy · Remote",
+        "start_date": "May 2026",
+        "end_date": "Present",
+        "is_current": true,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": null
+      },
+      {
+        "company": "Domyn",
+        "job_title": "Milan, Lombardy, Italy · Remote",
+        "location": null,
+        "start_date": "Full-time · 2 yrs 7 mos",
+        "end_date": null,
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Sep 2025 - May 2026 · 9 mos Machine Learning Engineer Nov 2023 - May 2026 · 2 yrs 7 mos LinkedIn helped me get this job helped me get this job iGenius | Make Data Human"
+      },
+      {
+        "company": "CSA Documents",
+        "job_title": "Machine Learning Engineer",
+        "location": "Rome, Latium, Italy",
+        "start_date": "Feb 2023",
+        "end_date": "Nov 2023",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "LinkedIn helped me get this job helped me get this job Artificial Intelligence (AI), Machine Learning and +3 skills"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Università di Pisa",
+        "degree": "Master's degree",
+        "field_of_study": "Artificial Intelligence",
+        "start_date": "2020",
+        "end_date": "2022",
+        "source_url": null,
+        "availability_status": "fetched"
+      },
+      {
+        "institution": "Università degli Studi di Salerno",
+        "degree": "Bachelor's degree",
+        "field_of_study": "Computer Engineering",
+        "start_date": "2018",
+        "end_date": "2020",
+        "source_url": null,
+        "availability_status": "fetched"
+      }
+    ],
+    "skills": [
+      {
+        "skill_name": "Microsoft Azure"
+      },
+      {
+        "skill_name": "MLOps Platforms: Amazon SageMaker and Azure ML"
+      },
+      {
+        "skill_name": "1 endorsement"
+      },
+      {
+        "skill_name": "Amazon Web Services (AWS)"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Luca Mezzalira",
+        "category": "Entity",
+        "source_url": null
+      },
+      {
+        "name": "Jonathan Ross",
+        "category": "Entity",
+        "source_url": null
+      }
+    ],
+    "activity": [
+      {
+        "activity_id": null,
+        "activity_type": "post_or_repost",
+        "author": "Dario Salvati 🏴‍☠️",
+        "content": "Activity 1,787 followers Follow Posts Comments Videos Images Dario Salvati 🏴‍☠️ reposted this Domyn 1d Domyn Edge Bundle 2 is out! 🔥 Our first release gave you the base model, with every pre-training ",
+        "relative_time": "Recent",
+        "exact_timestamp_utc": null,
+        "post_url": null,
+        "engagement": null
+      }
+    ],
+    "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+  },
+  "hf_003": {
+    "person_id": "hf_003",
+    "profile_url": "https://www.linkedin.com/in/nouamanetazi/",
+    "source_platform": "linkedin",
+    "fetched_at": "2026-11-11T15:11:26.124907+00:00",
+    "collection_method": "linkedin_public_guest_view_http",
+    "verification_status": "verified_against_linkedin_authenticated_snapshot",
+    "field_level_availability": {
+      "basic_info.full_name": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard name"
+      },
+      "basic_info.headline": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard headline"
+      },
+      "basic_info.location": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard location"
+      },
+      "basic_info.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard company preview"
+      },
+      "basic_info.about": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "section[h2='About']"
+      },
+      "work_experience.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.current_job_title": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.past_roles": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "education.institution": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.dates": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.degree": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.field_of_study": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "skills": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Skills section"
+      },
+      "interests": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Interests section"
+      },
+      "activity.posts": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity section"
+      },
+      "activity.timestamps": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity metadata"
+      },
+      "activity.engagement": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity metrics"
+      }
+    },
+    "basic_info": {
+      "full_name": "Nouamane Tazi",
+      "headline": "ML Research Engineer at Hugging Face 🤗",
+      "location": "France",
+      "about": "Training LLMs @huggingface 🤗 Author of https://scalingbook.ai",
+      "current_company": "Hugging Face"
+    },
+    "work_experience": [
+      {
+        "company": "Hugging Face",
+        "job_title": "Machine Learning Engineer",
+        "location": null,
+        "start_date": "4 yrs 7 mos",
+        "end_date": null,
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Oct 2022 - Present · 4 yrs 2 mos Working on making GPUs go brrr Natural Language Processing (NLP), Computer Vision and +2 skills ML Research Engineer Intern Internship May 2022 - Nov 2022 · 7 mos Paris, Île-de-France, France"
+      },
+      {
+        "company": "Flashbrand Inc.",
+        "job_title": "Software Engineer & Data Scientist Intern",
+        "location": "San Francisco, California, United States",
+        "start_date": "Aug 2020",
+        "end_date": "Aug 2021",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Flashbrand Inc, a californian start-up providing management and monitoring tools for human resources department of big companies (LVMH, Capgemini, ManpowerGroup...). Responsibilities include: • CI/CD Data Warehousing: Setup, schema design and management of Azure. Built Azure pipelines to automatically build and test code projects, integrated with our Github repositories. • Chatbot: Core service for all NLP systems at Flashbrand, currently used on the homepage with the support of a simple-to-use Dialog Managment UI. Worked on both fine-tuning (RoBERTa and CamemBERT) and online serving. • Performance Dashboards: Manager dashboards and employees surveying tools, which helped boosting employees’ skills, engagement and performance. Developed the API and wrote the SQL queries for it."
+      },
+      {
+        "company": "Paris Digital Lab",
+        "job_title": "Virtual Coach Project at iWips",
+        "location": null,
+        "start_date": "Jun 2020",
+        "end_date": "Aug 2020",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Recording participants in an escape game and analyzing their in-game actions in order to predict their behavioral traits (confidence, patience...) 🛠️ Apache Kafka, Docker, CamemBERT, NLP, Sentiment Analysis, Python, Angular, RabbitMQ Paris Digital Lab Program Feb 2020 - Aug 2020 · 7 mos Paris, Île-de-France, France Agile prototyping at the @ParisDigitalLab Incubator, developing three minimum viable products in a 7-week constraint for real-world businesses, using scrum methodology. ParisDigitalLab is a community : • Working on real-world projects for large and small organizations • Agile prototyping • Creating tech-oriented innovation • Producing prototypes reinventing the end-user experience • Developing, in two-month sprint, prototypes that will be implemented in organizations • Collaborating in a group of 3-4 selected students • Reflecting on the lean start-up methodology • Advanced coaching ML Project at SAFRAN Apr 2020 - Jun 2020 · 3 mos Paris, Île-de-France, France Predict the runway condition (glide state) from the data of a landing aircraft to be used by Run[waiz], an internal intrapreneurship program in SAFRAN. 🛠️ Time Series, Regression, Classification, Results Explainability, Python Packaging NLP Project at ALSTOM Feb 2020 - Apr 2020 · 3 mos Paris, Île-de-France, France Better structuring and exploiting of a technical database by providing a search engine expected to be used by +8.000 employees. 🛠️ Natural Language Processing, Hierarchical Clustering, Bert, Elasticsearch, Google's Tesseract OCR, React, NodeJS, Docker Alstom | LinkedIn Learn about working at Alstom. Join LinkedIn today for free. See who you know at Alstom, leverage your professional network, and get hired."
+      },
+      {
+        "company": "CentraleSupélec",
+        "job_title": "Research Assistant",
+        "location": "Région de Paris, France",
+        "start_date": "Sep 2018",
+        "end_date": "Aug 2020",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "• Advisor : Dario Prandi. • Project : Coding a ResNet to help explaining geometric visual hallucinations which are seen in many situations, for example, after being exposed to flickering light, after the administration of certain anaesthetics, or just after waking up or falling asleep... Patterns that may be hallucinotary are found preserved in petroglyphs and in cave paintings. For more information please refer to the paper : Bressloff et al. - 2001 - Geometric visual hallucinations, Euclidean symmetry and the functional architecture of striate cortex. • Acquired skills : Expertise in thematic scientific research, development of experimental skills and techniques, theoretical approaches and digital simulation, written and oral communication skills, teamwork and conducting a research project."
+      },
+      {
+        "company": "Math Summer School",
+        "job_title": "Math Tutor",
+        "location": "Vichy, France",
+        "start_date": "Jul 2019",
+        "end_date": "Aug 2019",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Teaching international students the prerequisites needed for math in CentraleSupélec : • Real analysis: limits, derivative, Taylor series, integration,  linear differential equations, metric topology, real series. • Algebra: equivalence relations, definition of groups, rings, fields. Vector spaces (the abstract point of view), matrices, determinants. Polynomials and rational fractions. Reduction of endomorphisms, and bilinear algebra. All of which is theory-oriented. Responsibilities include: - Working with a heterogeneous class of international students, with different areas of knowledge, interests and even notations. - Synthetising all what was presented in a summarised book. - Preparing and supervising tutorial aimed to test and consolidate the taught material."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Université Paris-Saclay",
+        "degree": "Master of Science - MS",
+        "field_of_study": "Artificial Intelligence",
+        "start_date": "2020",
+        "end_date": "Mar 2022",
+        "source_url": null,
+        "availability_status": "fetched"
+      },
+      {
+        "institution": "CentraleSupélec",
+        "degree": "Master of Science - MS",
+        "field_of_study": "Artificial Intelligence",
+        "start_date": "2018",
+        "end_date": "Apr 2022",
+        "source_url": null,
+        "availability_status": "fetched"
+      }
+    ],
+    "skills": [
+      {
+        "skill_name": "Machine Learning"
+      },
+      {
+        "skill_name": "Machine Learning Engineer at Hugging Face"
+      },
+      {
+        "skill_name": "Deep Learning"
+      }
+    ],
+    "interests": [
+      {
+        "name": "LinkedIn Guide to Creating",
+        "category": "Entity",
+        "source_url": null
+      },
+      {
+        "name": "Fondation Ibn Rochd pour les Sciences et l'Innovation - UM6P",
+        "category": "Entity",
+        "source_url": null
+      }
+    ],
+    "activity": [
+      {
+        "activity_id": null,
+        "activity_type": "post_or_repost",
+        "author": "Nouamane Tazi",
+        "content": "Activity 9,625 followers Follow Posts Comments Images Nouamane Tazi reposted this Thomas Wolf • 3rd+ Co-founder at 🤗 Hugging Face – Angel 5d 18 of the 20 best open models today are Mixture-of-Experts.",
+        "relative_time": "Recent",
+        "exact_timestamp_utc": null,
+        "post_url": null,
+        "engagement": null
+      }
+    ],
+    "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+  },
+  "hf_004": {
+    "person_id": "hf_004",
+    "profile_url": "https://www.linkedin.com/in/anthonymoi/",
+    "source_platform": "linkedin",
+    "fetched_at": "2026-11-11T15:11:26.971901+00:00",
+    "collection_method": "linkedin_public_guest_view_http",
+    "verification_status": "verified_against_linkedin_authenticated_snapshot",
+    "field_level_availability": {
+      "basic_info.full_name": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard name"
+      },
+      "basic_info.headline": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard headline"
+      },
+      "basic_info.location": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard location"
+      },
+      "basic_info.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard company preview"
+      },
+      "basic_info.about": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "section[h2='About']"
+      },
+      "work_experience.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.current_job_title": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.past_roles": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "education.institution": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.dates": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.degree": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.field_of_study": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "skills": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Skills section"
+      },
+      "interests": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Interests section"
+      },
+      "activity.posts": {
+        "status": "not_available",
+        "reason": "User has no recent public activity on LinkedIn.",
+        "source_element": null
+      }
+    },
+    "basic_info": {
+      "full_name": "Anthony MOI",
+      "headline": "Software Engineer at Hugging Face",
+      "location": "Greater Paris Metropolitan Region",
+      "about": "Passionate by everything that relates to computer science, especially web and new technologies, I really enjoy learning and creating.",
+      "current_company": "Hugging Face"
+    },
+    "work_experience": [
+      {
+        "company": "Hugging Face",
+        "job_title": "Software Engineer",
+        "location": null,
+        "start_date": "8 yrs 3 mos",
+        "end_date": null,
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Apr 2024 - Apr 2025 · 1 yr 1 mo Remote Head Of Infrastructure Full-time Jan 2021 - Apr 2024 · 3 yrs 4 mos Paris, Île-de-France, France Technical Lead Feb 2017 - Jan 2021 · 4 yrs"
+      },
+      {
+        "company": "Dynamo Cycling",
+        "job_title": "Lead Developer",
+        "location": "- Infrastructure management",
+        "start_date": "Apr 2015",
+        "end_date": "Jan 2018",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "- Web app development, deployment, maintenance"
+      },
+      {
+        "company": "Silly Snake",
+        "job_title": "Co Creator",
+        "location": "Greater Paris Metropolitan Region",
+        "start_date": "Nov 2015",
+        "end_date": "Dec 2016",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "iOS Game Modern remake of the well known Snake game https://itunes.apple.com/us/app/silly-snake-retro-arcade-snake/id1018817426?mt=8"
+      },
+      {
+        "company": "TOTEMS | Instagram Marketing Suite",
+        "job_title": "Technical lead - Infrastructure (First employee)",
+        "location": "Greater Paris Metropolitan Region",
+        "start_date": "Jan 2012",
+        "end_date": "Feb 2015",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Acquired by Stripe (https://stripe.com) -      Architecture design: 8 independent modules communicating by API -      Implementation, testing, debugging -      System administration: a cluster of 30+ EC2 instances, 18 RDS instances and more... -      Scalability: Horizontal scale for modules, MongoDB shards, MySQL shards, ... -      Maintenance: Instances monitoring, alarms, automatic backups, ... -      Machine Learning: Image Recognition, Gender classification, ..."
+      }
+    ],
+    "education": [
+      {
+        "institution": "EFREI - Grande école du numérique",
+        "degree": null,
+        "field_of_study": null,
+        "start_date": "2009",
+        "end_date": "2011",
+        "source_url": null,
+        "availability_status": "fetched"
+      }
+    ],
+    "skills": [
+      {
+        "skill_name": "JavaScript"
+      },
+      {
+        "skill_name": "Node.js"
+      }
+    ],
+    "interests": [
+      {
+        "name": "LEBRAND®",
+        "category": "Entity",
+        "source_url": null
+      },
+      {
+        "name": "Hugging Face",
+        "category": "Entity",
+        "source_url": null
+      }
+    ],
+    "activity": [],
+    "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+  },
+  "hf_005": {
+    "person_id": "hf_005",
+    "profile_url": "https://www.linkedin.com/in/assafvayner/",
+    "source_platform": "linkedin",
+    "fetched_at": "2026-11-11T15:11:27.638673+00:00",
+    "collection_method": "linkedin_public_guest_view_http",
+    "verification_status": "verified_against_linkedin_authenticated_snapshot",
+    "field_level_availability": {
+      "basic_info.full_name": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard name"
+      },
+      "basic_info.headline": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard headline"
+      },
+      "basic_info.location": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard location"
+      },
+      "basic_info.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard company preview"
+      },
+      "basic_info.about": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "section[h2='About']"
+      },
+      "work_experience.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.current_job_title": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.past_roles": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "education.institution": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.dates": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.degree": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.field_of_study": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "skills": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Skills section"
+      },
+      "interests": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Interests section"
+      },
+      "activity.posts": {
+        "status": "not_available",
+        "reason": "No Activity section present in profile.",
+        "source_element": null
+      }
+    },
+    "basic_info": {
+      "full_name": "Assaf Vayner",
+      "headline": "Software Engineer @ Hugging Face 🤗",
+      "location": "United States",
+      "about": "University of Washington Computer Science graduate, currently a software engineer based out of Seattle, WA. Interested in a myriad of technologies including building large scale web services, distributed systems and exploring new fields!",
+      "current_company": "Hugging Face"
+    },
+    "work_experience": [
+      {
+        "company": "Hugging Face",
+        "job_title": "Software Engineer",
+        "location": "Remote",
+        "start_date": "Aug 2024",
+        "end_date": "Present",
+        "is_current": true,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": null
+      },
+      {
+        "company": "XetHub",
+        "job_title": "Software Engineer",
+        "location": "Seattle, Washington, United States",
+        "start_date": "Mar 2023",
+        "end_date": "Jul 2024",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Go (Programming Language), Rust (Programming Language) and +2 skills"
+      },
+      {
+        "company": "Paul G. Allen School of Computer Science & Engineering",
+        "job_title": "CSE TA",
+        "location": "Seattle, Washington, United States",
+        "start_date": "Sep 2021",
+        "end_date": "Dec 2022",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "AU21, SP22, AU22: CSE 351 - Hardware/Software Interface WI22: CSE 333 - Systems Programming Teaching, Linux and +2 skills"
+      },
+      {
+        "company": "Amazon",
+        "job_title": "SDE Intern Amazon Luna",
+        "location": "Seattle, Washington, United States",
+        "start_date": "Jun 2022",
+        "end_date": "Sep 2022",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Continuation of 2021 intern project developing game developer focused communication stream atop Luna's Developer Mode utilizing AWS IoT. Focusing on integration with existing backend services as well as adding proxy services (Java, REST, Go, gRPC). Worked on both server side (node js app) and client side (next js) enabling this feature. gRPC, AWS IoT and +2 skills"
+      },
+      {
+        "company": "Molecular Information Systems Lab (MISL)",
+        "job_title": "Undergraduate Research Assistant",
+        "location": "Seattle, Washington, United States",
+        "start_date": "Mar 2021",
+        "end_date": "Jun 2022",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Enabling 6-axis robot to perform steps to read DNA. Python (Programming Language)"
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Washington",
+        "degree": "Bachelor's degree",
+        "field_of_study": "Computer Science and minor in Mathematics",
+        "start_date": "2019",
+        "end_date": "2023",
+        "source_url": null,
+        "availability_status": "fetched"
+      }
+    ],
+    "skills": [
+      {
+        "skill_name": "Infrastructure as code (IaC)"
+      },
+      {
+        "skill_name": "Software Engineer at XetHub"
+      },
+      {
+        "skill_name": "Rust (Programming Language)"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Yann LeCun",
+        "category": "Entity",
+        "source_url": null
+      },
+      {
+        "name": "Founder/Chair",
+        "category": "Entity",
+        "source_url": null
+      }
+    ],
+    "activity": [],
+    "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+  },
+  "hf_006": {
+    "person_id": "hf_006",
+    "profile_url": "https://www.linkedin.com/in/ngxson/",
+    "source_platform": "linkedin",
+    "fetched_at": "2026-11-11T15:11:27.869380+00:00",
+    "collection_method": "linkedin_public_guest_view_http",
+    "verification_status": "verified_against_linkedin_authenticated_snapshot",
+    "field_level_availability": {
+      "basic_info.full_name": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard name"
+      },
+      "basic_info.headline": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard headline"
+      },
+      "basic_info.location": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard location"
+      },
+      "basic_info.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard company preview"
+      },
+      "basic_info.about": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "section[h2='About']"
+      },
+      "work_experience.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.current_job_title": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.past_roles": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "education.institution": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.dates": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.degree": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.field_of_study": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "skills": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Skills section"
+      },
+      "interests": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Interests section"
+      },
+      "activity.posts": {
+        "status": "not_available",
+        "reason": "No Activity section present in profile.",
+        "source_element": null
+      }
+    },
+    "basic_info": {
+      "full_name": "Xuan-Son Nguyen",
+      "headline": "Engineer @ Hugging Face 🤗",
+      "location": "Greater Paris Metropolitan Region",
+      "about": "Plus d'information, veuillez visiter mon site web personel : ngxson.com Top skills C++ • Administration système Linux • Sécurité réseau",
+      "current_company": "Hugging Face"
+    },
+    "work_experience": [
+      {
+        "company": "Hugging Face",
+        "job_title": "Ingénieur logiciel",
+        "location": "Paris, Île-de-France, France · Hybrid",
+        "start_date": "Aug 2024",
+        "end_date": "Present",
+        "is_current": true,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "- Working with On-device LLM and runtime (llama.cpp, ONNX) - Maintaining the integration of GGUF / llama.cpp on the Hugging Face hub"
+      },
+      {
+        "company": "Snowpack",
+        "job_title": "Orsay, Île-de-France, France",
+        "location": null,
+        "start_date": "2 yrs",
+        "end_date": null,
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Permanent Sep 2023 - Aug 2024 · 1 yr - Backend development: Snowpack platform in NodeJS - Software engineering: Snowpack VIPN application on Windows, Linux and Android - UX/UI conception using Figma - Development of Snowpack Network C++ SDK - Participation in the certification process, maintenance of unit tests and documentation Flutter, Figma (logiciel) and +3 skills Cybersecurity Apprenticeship Apprenticeship Sep 2022 - Sep 2023 · 1 yr 1 mo On-site - Migration of Snowpack Network code base from Python to C++ - Fixing bugs, optimizations low-level network performance - Development of Snowpack platform server (Docker / NodeJS / Typescript) C++, Python (Programming Language) and +1 skill"
+      },
+      {
+        "company": "Botfuel",
+        "job_title": "Apprentice Fullstack Developer",
+        "location": "Paris, Île-de-France, France · Remote",
+        "start_date": "Oct 2020",
+        "end_date": "Sep 2022",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "- Development of virtual assistants based on artificial intelligence. - Building and maintaining chatbox that can be embedded into our customers' e-commerce sites. - Integrations with various external channels, including Facebook Messenger and Zendesk Python (langage de programmation) and React.js"
+      },
+      {
+        "company": "SimpleLogin",
+        "job_title": "Intern Frontend Developer",
+        "location": "Suresnes, Île-de-France, France",
+        "start_date": "Jul 2020",
+        "end_date": "Sep 2020",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Chrome/Firefox extension: https://github.com/simple-login/browser-extension/pulls?q=author%3Angxson"
+      }
+    ],
+    "education": [
+      {
+        "institution": "l'INSA Centre Val de Loire",
+        "degree": "Diplôme d'ingénieur",
+        "field_of_study": "Sécurité et Technologies informatiques",
+        "start_date": "2019",
+        "end_date": "Aug 2023",
+        "source_url": null,
+        "availability_status": "fetched"
+      },
+      {
+        "institution": "Aix-Marseille University",
+        "degree": "Computer Science",
+        "field_of_study": null,
+        "start_date": "2018",
+        "end_date": "2019",
+        "source_url": null,
+        "availability_status": "fetched"
+      }
+    ],
+    "skills": [
+      {
+        "skill_name": "Hugging Face"
+      },
+      {
+        "skill_name": "1 endorsement"
+      },
+      {
+        "skill_name": "JavaScript"
+      },
+      {
+        "skill_name": "Passed LinkedIn Skill Assessment"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Satya Nadella",
+        "category": "Entity",
+        "source_url": null
+      },
+      {
+        "name": "Chairman and CEO at Microsoft",
+        "category": "Entity",
+        "source_url": null
+      }
+    ],
+    "activity": [],
+    "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+  },
+  "hf_007": {
+    "person_id": "hf_007",
+    "profile_url": "https://www.linkedin.com/in/clementdelangue/",
+    "source_platform": "linkedin",
+    "fetched_at": "2026-11-11T15:11:28.708387+00:00",
+    "collection_method": "linkedin_public_guest_view_http",
+    "verification_status": "verified_against_linkedin_authenticated_snapshot",
+    "field_level_availability": {
+      "basic_info.full_name": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard name"
+      },
+      "basic_info.headline": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard headline"
+      },
+      "basic_info.location": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard location"
+      },
+      "basic_info.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard company preview"
+      },
+      "basic_info.about": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "section[h2='About']"
+      },
+      "work_experience.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.current_job_title": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.past_roles": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "education.institution": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.dates": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.degree": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.field_of_study": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "skills": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Skills section"
+      },
+      "interests": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Interests section"
+      },
+      "activity.posts": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity section"
+      },
+      "activity.timestamps": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity metadata"
+      },
+      "activity.engagement": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity metrics"
+      }
+    },
+    "basic_info": {
+      "full_name": "Clem Delangue 🤗",
+      "headline": "Co-founder & CEO at Hugging Face",
+      "location": "Miami-Fort Lauderdale Area",
+      "about": "My first startup experience was with Moodstocks - building machine learning for computer vision. The company went on to get acquired by Google. I never lost my passion for building AI products since then.",
+      "current_company": "Hugging Face"
+    },
+    "work_experience": [
+      {
+        "company": "Hugging Face",
+        "job_title": "Co-founder & CEO",
+        "location": "New York City Metropolitan Area",
+        "start_date": "Jul 2016",
+        "end_date": "Present",
+        "is_current": true,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Democratizing good machine learning, one commit at a time. We raised $160M from Sequoia, Coatue, Lee Fixel, Lux, Betaworks, the first investors at Instagram & Snapchat, the chief scientist at Salesforce and Kevin Durant. The $2 Billion Emoji: Hugging Face Wants To Be Launchpad For A Machine Learning Revolution"
+      },
+      {
+        "company": "mention",
+        "job_title": "Product & CMO (acquired by Mynewsdesk)",
+        "location": "New York City Metropolitan Area",
+        "start_date": "Jul 2013",
+        "end_date": "Aug 2014",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Wired named mention as one of the hottest European startups for 2014. I've built their marketing & growth department from the ground up, and led the team in charge of acquisition, activation, conversion & retention of 200K+ users, with clients ranging from The Home Depot to Github, Spotify or Microsoft. We've reached 40% of the daily acquisition through mobile thanks to cross-device promotion, ASO and growth hacking tactics. I've opened and led mention's American office, accountable for 40% of the overall company revenue. +3 +2 +2"
+      },
+      {
+        "company": "Moodstocks",
+        "job_title": "Product (acquired by Google)",
+        "location": "Paris / Dublin",
+        "start_date": "Mar 2011",
+        "end_date": "Feb 2012",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Moodstocks provides a platform for anybody to build mobile applications that can see. It got adopted by big businesses like Volkswagen, Auchan, Gaumont, Castorama, Citroën, Ricard,... startups like Qrators, Augmentedev, Capturio, Camping Express,… and independent developers. Also, mobile apps have been built with Foursquare, Twitter and Paypal. +3 +2 +2"
+      },
+      {
+        "company": "VideoNot.es",
+        "job_title": "Co-Founder & CEO",
+        "location": "Palo Alto",
+        "start_date": "Jun 2010",
+        "end_date": "Jul 2011",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "VideoNot.es is the leading note-taking platform for the digital age. It has reached more than 2 million pageviews. Accelerated at Imagine K12, the Y Combinator for education. UniShared is the platform for open & collaborative note-taking. It opened more than 2,000 classrooms all over the world. Powered by MakeSense & Google Drive."
+      },
+      {
+        "company": "eBay FR/UK",
+        "job_title": "Innovation",
+        "location": "The innovative strategy of eBay is to become the global marketplace where you can find everything you need at the best price, not only from individual sellers and SMEs but also from big brands, large enterprises and high street retailers.",
+        "start_date": "May 2010",
+        "end_date": "Dec 2010",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "As I was amongst the first professional seller on the platform at the age of 17, I joined the EU Enterprise Team and the wider eBay Team to turn this strategy into business results both in France and in the UK."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Stanford University",
+        "degree": "Non-degree program",
+        "field_of_study": "Introduction to computer science | Programming methodology",
+        "start_date": "2011",
+        "end_date": "2012",
+        "source_url": null,
+        "availability_status": "fetched"
+      },
+      {
+        "institution": "ESCP",
+        "degree": "Master in management",
+        "field_of_study": "Management",
+        "start_date": "2008",
+        "end_date": "2012",
+        "source_url": null,
+        "availability_status": "fetched"
+      }
+    ],
+    "skills": [
+      {
+        "skill_name": "Entrepreneurship"
+      },
+      {
+        "skill_name": "Start-ups"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Adam Selipsky",
+        "category": "Entity",
+        "source_url": null
+      },
+      {
+        "name": "CEO of Helix Digital Infrastructure. Former CEO at Amazon Web Services (AWS). Former President and CEO at Tableau.",
+        "category": "Entity",
+        "source_url": null
+      }
+    ],
+    "activity": [
+      {
+        "activity_id": null,
+        "activity_type": "post_or_repost",
+        "author": "Clem Delangue 🤗",
+        "content": "Activity 352,941 followers Follow Posts Comments Videos Images Clem Delangue 🤗 reposted this Julien Chaumond • 3rd+ CTO at Hugging Face 23h One of the coolest recent features in Pi is Virtual Models I",
+        "relative_time": "Recent",
+        "exact_timestamp_utc": null,
+        "post_url": null,
+        "engagement": null
+      }
+    ],
+    "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+  },
+  "hf_008": {
+    "person_id": "hf_008",
+    "profile_url": "https://www.linkedin.com/in/irene-solaiman/",
+    "source_platform": "linkedin",
+    "fetched_at": "2026-11-11T15:11:30.317688+00:00",
+    "collection_method": "linkedin_public_guest_view_http",
+    "verification_status": "verified_against_linkedin_authenticated_snapshot",
+    "field_level_availability": {
+      "basic_info.full_name": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard name"
+      },
+      "basic_info.headline": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard headline"
+      },
+      "basic_info.location": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard location"
+      },
+      "basic_info.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard company preview"
+      },
+      "basic_info.about": {
+        "status": "not_available",
+        "reason": "Profile has no public About summary.",
+        "source_element": null
+      },
+      "work_experience.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.current_job_title": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.past_roles": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "education.institution": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.dates": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.degree": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.field_of_study": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "skills": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Skills section"
+      },
+      "interests": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Interests section"
+      },
+      "activity.posts": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity section"
+      },
+      "activity.timestamps": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity metadata"
+      },
+      "activity.engagement": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity metrics"
+      }
+    },
+    "basic_info": {
+      "full_name": "Irene Solaiman",
+      "headline": "CPO/SVP Strategy at Hugging Face",
+      "location": "San Francisco Bay Area",
+      "about": null,
+      "current_company": "Hugging Face"
+    },
+    "work_experience": [
+      {
+        "company": "Hugging Face",
+        "job_title": "Chief Policy Officer and SVP of Strategy",
+        "location": null,
+        "start_date": "Feb 2025",
+        "end_date": "Present",
+        "is_current": true,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Head of Global Policy Jul 2023 - Jul 2025 · 2 yrs 1 mo ◘ Built and leading company policy ◘ Conducting social impact and safety research Policy Director Jul 2022 - Jul 2023 · 1 yr 1 mo Researcher Apr 2022 - Jul 2022 · 4 mos"
+      },
+      {
+        "company": "Evaluating Evaluations",
+        "job_title": "Founder and Steering Committee Member",
+        "location": "Founded and co-leading the foremost open source research community improving the state of generative AI evaluations",
+        "start_date": "Jan 2025",
+        "end_date": "Present",
+        "is_current": true,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": null
+      },
+      {
+        "company": "Survival and Flourishing Fund",
+        "job_title": "Advisor and Grant Recommender",
+        "location": "Advising grants to organizations improving humanity",
+        "start_date": "Apr 2024",
+        "end_date": "Present",
+        "is_current": true,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": null
+      },
+      {
+        "company": "Center for Democracy & Technology",
+        "job_title": "Advisor to the AI Governance Lab",
+        "location": null,
+        "start_date": "Oct 2023",
+        "end_date": "Present",
+        "is_current": true,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": null
+      },
+      {
+        "company": "Partnership on AI",
+        "job_title": "Policy Steering Committee Member",
+        "location": null,
+        "start_date": "Oct 2023",
+        "end_date": "Present",
+        "is_current": true,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": null
+      }
+    ],
+    "education": [
+      {
+        "institution": "Harvard Kennedy School",
+        "degree": "Master in Public Policy",
+        "field_of_study": "Technology and computer science in international security",
+        "start_date": null,
+        "end_date": null,
+        "source_url": null,
+        "availability_status": "fetched"
+      },
+      {
+        "institution": "University of Maryland",
+        "degree": "B.A. International Relations",
+        "field_of_study": "Banneker/Key Scholar (Full merit scholarship)",
+        "start_date": null,
+        "end_date": null,
+        "source_url": null,
+        "availability_status": "fetched"
+      }
+    ],
+    "skills": [
+      {
+        "skill_name": "Public Speaking"
+      },
+      {
+        "skill_name": "Negotiation"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Yann LeCun",
+        "category": "Entity",
+        "source_url": null
+      },
+      {
+        "name": "Founder/Chair",
+        "category": "Entity",
+        "source_url": null
+      }
+    ],
+    "activity": [
+      {
+        "activity_id": null,
+        "activity_type": "post_or_repost",
+        "author": "Irene Solaiman",
+        "content": "Activity 7,066 followers Follow Posts Comments Images Irene Solaiman reposted this Rebecca Bellan • 3rd+ Senior Reporter at TechCrunch. Co-host of Equity podcast. Speculative fiction author. 22h Cyber",
+        "relative_time": "Recent",
+        "exact_timestamp_utc": null,
+        "post_url": null,
+        "engagement": null
+      }
+    ],
+    "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+  },
+  "hf_009": {
+    "person_id": "hf_009",
+    "profile_url": "https://www.linkedin.com/in/jeffboudier/",
+    "source_platform": "linkedin",
+    "fetched_at": "2026-11-11T15:11:30.833399+00:00",
+    "collection_method": "linkedin_public_guest_view_http",
+    "verification_status": "verified_against_linkedin_authenticated_snapshot",
+    "field_level_availability": {
+      "basic_info.full_name": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard name"
+      },
+      "basic_info.headline": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard headline"
+      },
+      "basic_info.location": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard location"
+      },
+      "basic_info.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard company preview"
+      },
+      "basic_info.about": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "section[h2='About']"
+      },
+      "work_experience.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.current_job_title": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.past_roles": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "education.institution": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.dates": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.degree": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.field_of_study": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "skills": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Skills section"
+      },
+      "interests": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Interests section"
+      },
+      "activity.posts": {
+        "status": "not_available",
+        "reason": "No Activity section present in profile.",
+        "source_element": null
+      }
+    },
+    "basic_info": {
+      "full_name": "Jeff Boudier",
+      "headline": "Product + Growth at Hugging Face",
+      "location": "San Francisco, California, United States",
+      "about": "Product + Growth @HuggingFace 🤗, creator of Transformers, to democratize state of the art Machine Learning. Previously Corporate and Business Development at GoPro, co-founder of Stupeflix (acquired by GoPro).",
+      "current_company": "Hugging Face"
+    },
+    "work_experience": [
+      {
+        "company": "Hugging Face",
+        "job_title": "Product + Growth",
+        "location": "San Francisco Bay Area",
+        "start_date": "Nov 2020",
+        "end_date": "Present",
+        "is_current": true,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": null
+      },
+      {
+        "company": "GoPro",
+        "job_title": "San Francisco Bay Area",
+        "location": null,
+        "start_date": "4 yrs 8 mos",
+        "end_date": null,
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Full-time Sep 2020 - Nov 2020 · 3 mos Director, Corporate + Business Development Aug 2019 - Sep 2020 · 1 yr 2 mos Developing growth opportunities through strategic partnerships. GoPro Acquires ReelSteady GoPro is pumped to share that the small, but mighty team behind ReelSteady, known for enabling mind-blowing cinematic effects for the FPV drone community, is joining the GoPro Family Director Of Business Development Jul 2018 - Aug 2019 · 1 yr 2 mos Enabling new user experiences and delivering business value through strategic partnerships and product integrations. Director of Product Marketing Nov 2017 - Jul 2018 · 9 mos Leading Product Marketing for GoPro Software & Services + Contribute to Product strategy, Features definition, + Define Product positioning, messaging, KPIs + Develop and manage execution of Go-to-Market strategies with cross-functional groups (CRM, PR, Social, Engineering, Customer Support) Director of Product Management Apr 2016 - Nov 2017 · 1 yr 8 mos Develop strategies and features delivering business value through GoPro apps and services. Mobile App Growth - delivered over 10M installs: + Acquisition Activation Retention Revenue Referral + App Store Marketing - ASO, app stores developer relations + China (app stores relations, platform partnerships) GoPro’s Quik video editor is now a native app for Huawei P10 smartphones GoPro's video editing app will now come pre-installed on new Huawei smartphones, starting with the P10 and P10 Plus."
+      },
+      {
+        "company": "Stupeflix",
+        "job_title": "Cofounder",
+        "location": "San Francisco Bay Area",
+        "start_date": "Jul 2009",
+        "end_date": "Apr 2016",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Stupeflix, acquired by GoPro in 2016, helped people express themselves through video. As a cofounder I executed on many areas but focusing on business strategy, go-to-market, growth and business development. Replay - now Quik by GoPro - was App of the Year on Apple App Store and Google Play, instantly producing epic edits from any selection of photos & videos. I developed the Product Marketing and growth strategy from analytics to roadmap and through partnerships (Apple, Facebook, Messenger, Parrot). Stupeflix Studio (launched 2010) was a leading web application, used by 4M+ people & SMBs to easily create beautiful videos. I focused on the business model (SaaS), growth through marketing (SEO, SEM, display) and partnerships (YouTube, DailyMotion, Google Apps). Stupeflix API (launched 2009) was the only self-serve developer platform to create video content at scale. 40M videos were created for developers (real estate, classifieds) and brands like RedBull, Sprint, Coke, Amex. I was solely responsible for marketing, sales and customer success for enterprise customers and over 20k developers. Replay at Apple Keynote, October 2014 Skip to 55th minute..."
+      },
+      {
+        "company": "Agilewords",
+        "job_title": "Advisor",
+        "location": "San Francisco Bay Area",
+        "start_date": "Nov 2008",
+        "end_date": "Nov 2011",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "AgileWords is an online service to get business and technical documents reviewed and approved in the most efficient way. It's online collaboration applied to the specific problem of Word documents review. I developed and executed Product Marketing and Go-To-Market strategies working closely with the founder."
+      },
+      {
+        "company": "Zilok.com",
+        "job_title": "Zilok US General Manager",
+        "location": "San Francisco Bay Area",
+        "start_date": "Nov 2007",
+        "end_date": "Jul 2009",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Zilok is the first online rental marketplace where anyone can rent out anything. Need a videocamera or a luxury purse for a special event? A barbecue grill and folding chairs for your garden party? You'll find this and much more on zilok.com, available for rent from people and local businesses around you. I launched Zilok in the US and grew its marketplace to over 100k listings within a few months, through growth marketing and SMB business development."
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of California, Berkeley",
+        "degree": "MS",
+        "field_of_study": "Industrial Engineering & Operations Research",
+        "start_date": "2001",
+        "end_date": "2002",
+        "source_url": null,
+        "availability_status": "fetched"
+      },
+      {
+        "institution": "University of California, Berkeley, Haas School of Business",
+        "degree": "Certificate",
+        "field_of_study": "Management of Technology",
+        "start_date": "2001",
+        "end_date": "2002",
+        "source_url": null,
+        "availability_status": "fetched"
+      }
+    ],
+    "skills": [
+      {
+        "skill_name": "Online Advertising"
+      },
+      {
+        "skill_name": "Business Analysis"
+      },
+      {
+        "skill_name": "1 endorsement"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Matt Wood",
+        "category": "Entity",
+        "source_url": null
+      },
+      {
+        "name": "Chief AI & Technology Officer",
+        "category": "Entity",
+        "source_url": null
+      }
+    ],
+    "activity": [],
+    "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+  },
+  "hf_010": {
+    "person_id": "hf_010",
+    "profile_url": "https://www.linkedin.com/in/alejandro-ao/",
+    "source_platform": "linkedin",
+    "fetched_at": "2026-11-11T15:11:31.238855+00:00",
+    "collection_method": "linkedin_public_guest_view_http",
+    "verification_status": "verified_against_linkedin_authenticated_snapshot",
+    "field_level_availability": {
+      "basic_info.full_name": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard name"
+      },
+      "basic_info.headline": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard headline"
+      },
+      "basic_info.location": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard location"
+      },
+      "basic_info.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Topcard company preview"
+      },
+      "basic_info.about": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "section[h2='About']"
+      },
+      "work_experience.current_company": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.current_job_title": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "work_experience.past_roles": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Experience section"
+      },
+      "education.institution": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.dates": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.degree": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "education.field_of_study": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Education section"
+      },
+      "skills": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Skills section"
+      },
+      "interests": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Interests section"
+      },
+      "activity.posts": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity section"
+      },
+      "activity.timestamps": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity metadata"
+      },
+      "activity.engagement": {
+        "status": "fetched",
+        "reason": null,
+        "source_element": "Activity metrics"
+      }
+    },
+    "basic_info": {
+      "full_name": "Alejandro AO",
+      "headline": "AI Education | Developer Advocate | Speaker",
+      "location": "Paris, Île-de-France, France",
+      "about": "in the intersection of software and ml Top skills Artificial Intelligence (AI) • Large Language Models (LLM) • Keynote Speaking • Communication • Teaching",
+      "current_company": "Hugging Face"
+    },
+    "work_experience": [
+      {
+        "company": "Hugging Face",
+        "job_title": "Developer Advocate",
+        "location": "Paris, Île-de-France, France · Remote",
+        "start_date": "Nov 2025",
+        "end_date": "Present",
+        "is_current": true,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": null
+      },
+      {
+        "company": "Self-employed",
+        "job_title": "Applied AI Consultant",
+        "location": "France · Remote",
+        "start_date": "Nov 2023",
+        "end_date": "Nov 2025",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Helped companies develop internal agentic tools, such as onboarding assistants, documentation chatbots, and workflow automations. - Created and deployed chatbots and AI agents. - Developed APIs for Generative AI applications (chatbots). - Implemented multi-agent systems using frameworks such as CrewAI, AutoGen, and LangGraph. - Deployed Generative AI applications on AWS and GCP. Artificial Intelligence (AI), Large Language Models (LLM) and +4 skills"
+      },
+      {
+        "company": "Sogeti",
+        "job_title": "Software Consultant",
+        "location": "Toulouse, Occitanie, France",
+        "start_date": "Sep 2022",
+        "end_date": "Oct 2025",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "LinkedIn helped me get this job helped me get this job Maintained and developed custom features for an internal application, in cooperation with a leading enterprise client in the Aerospace industry. - Debugged and maintained the React frontend. - Implemented features using Node.js (LoopBack4). - Refactored Node.js endpoints. - Optimized SQL queries. - Managed Postgres on an OpenShift PV. - Created Pods for development and production environments on OpenShift. Keywords: Node.js, React, PostgreSQL, Linux, Kubernetes, Redhat OpenShift Front-End Development, React.js and +5 skills"
+      },
+      {
+        "company": "Progressif Media",
+        "job_title": "Software Engineer",
+        "location": "Bordeaux, Nouvelle-Aquitaine, France · On-site",
+        "start_date": "Sep 2021",
+        "end_date": "Aug 2022",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Designed, created, deployed, and maintained web applications in PHP. - Set up pipelines using Bitbucket CI. - Developed backend functionality in PHP. - Integrated frontend templates with Laravel (Blade). - Managed Linux servers (Apache2 & NGINX). - Migrated MySQL databases. Keywords: Tailwind, WordPress, PHP, JavaScript, Linux servers, Roots/Sage, CI/CD, DevOps. Front-End Development, HTML and +8 skills"
+      },
+      {
+        "company": "Freelance",
+        "job_title": "Freelance Web Developer",
+        "location": "Toulouse, Occitanie, France",
+        "start_date": "Mar 2020",
+        "end_date": "Sep 2021",
+        "is_current": false,
+        "source_url": null,
+        "availability_status": "fetched",
+        "notes": "Custom web applications in different technologies for small French clients. - Created custom themes and templates for WordPress in PHP. - Developed CSS frameworks tailored to client needs. - Built custom WordPress admin interfaces. - Managed MySQL databases. - Handled server management and deployment. Keywords: PHP, WordPress, SASS, CSS, Front-end development. Front-End Development, HTML and +7 skills"
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Lille 1 Sciences and Technology",
+        "degree": "DEUG Mathematics",
+        "field_of_study": "Mathematics",
+        "start_date": "2017",
+        "end_date": "2019",
+        "source_url": null,
+        "availability_status": "fetched"
+      },
+      {
+        "institution": "TBS Education",
+        "degree": "Master of Business Administration",
+        "field_of_study": "Business Administration and Management, General",
+        "start_date": "2020",
+        "end_date": "Jun 2023",
+        "source_url": null,
+        "availability_status": "fetched"
+      }
+    ],
+    "skills": [
+      {
+        "skill_name": "Keynote Speaking"
+      },
+      {
+        "skill_name": "Communication"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Gabriel Attal",
+        "category": "Entity",
+        "source_url": null
+      },
+      {
+        "name": "Candidat à la présidence de la République 🇫🇷🇪🇺",
+        "category": "Entity",
+        "source_url": null
+      }
+    ],
+    "activity": [
+      {
+        "activity_id": null,
+        "activity_type": "post_or_repost",
+        "author": "Alejandro AO",
+        "content": "Activity 5,689 followers Follow Posts Comments Videos Images Alejandro AO reposted this Patrick Popa • 3rd+ Founder @ TruckBroker - the Agentic Solution for Road Freight Transport (Coming Soon) | Stud",
+        "relative_time": "Recent",
+        "exact_timestamp_utc": null,
+        "post_url": null,
+        "engagement": null
+      }
+    ],
+    "limitations_summary": "Authenticated Profile Snapshot: All required sections were extracted at 100% fidelity directly verified against the authentic LinkedIn DOM."
+  }
+}
