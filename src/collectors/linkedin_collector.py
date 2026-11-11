@@ -89,11 +89,13 @@ class LinkedInCollector:
         if use_cached_raw and raw_file_path.exists():
             logger.info("Using cached raw HTML from %s", raw_file_path)
             html_content = raw_file_path.read_text(encoding="utf-8")
+            collection_method = "linkedin_authenticated_snapshot"
         else:
             logger.info("Fetching live public LinkedIn profile for %s (%s)", person_id, profile_url)
             html_content = self.fetch_profile_html(profile_url)
             raw_file_path.write_text(html_content, encoding="utf-8")
             logger.info("Raw LinkedIn HTML saved to %s", raw_file_path)
+            collection_method = "linkedin_public_guest_view_http"
 
         # Parse into strictly validated Pydantic model
         record = self.parser.parse(
@@ -101,7 +103,7 @@ class LinkedInCollector:
             profile_url=profile_url,
             person_id=person_id,
             fetched_at=fetched_at,
-            collection_method="linkedin_public_guest_view_http",
+            collection_method=collection_method,
         )
 
         # Save single record to processed dir

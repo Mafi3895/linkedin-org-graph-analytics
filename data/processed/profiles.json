@@ -3,8 +3,8 @@
     "person_id": "hf_001",
     "profile_url": "https://www.linkedin.com/in/anton-lozhkov/",
     "source_platform": "linkedin",
-    "fetched_at": "2026-11-11T15:11:24.032920+00:00",
-    "collection_method": "linkedin_public_guest_view_http",
+    "fetched_at": "2026-11-11T16:18:44.268153+00:00",
+    "collection_method": "linkedin_authenticated_snapshot",
     "verification_status": "verified_against_linkedin_authenticated_snapshot",
     "field_level_availability": {
       "basic_info.full_name": {
@@ -199,8 +199,8 @@
     "person_id": "hf_002",
     "profile_url": "https://www.linkedin.com/in/dwarez/",
     "source_platform": "linkedin",
-    "fetched_at": "2026-11-11T15:11:25.181652+00:00",
-    "collection_method": "linkedin_public_guest_view_http",
+    "fetched_at": "2026-11-11T16:18:47.479413+00:00",
+    "collection_method": "linkedin_authenticated_snapshot",
     "verification_status": "verified_against_linkedin_authenticated_snapshot",
     "field_level_availability": {
       "basic_info.full_name": {
@@ -395,8 +395,8 @@
     "person_id": "hf_003",
     "profile_url": "https://www.linkedin.com/in/nouamanetazi/",
     "source_platform": "linkedin",
-    "fetched_at": "2026-11-11T15:11:26.124907+00:00",
-    "collection_method": "linkedin_public_guest_view_http",
+    "fetched_at": "2026-11-11T16:18:49.517570+00:00",
+    "collection_method": "linkedin_authenticated_snapshot",
     "verification_status": "verified_against_linkedin_authenticated_snapshot",
     "field_level_availability": {
       "basic_info.full_name": {
@@ -610,8 +610,8 @@
     "person_id": "hf_004",
     "profile_url": "https://www.linkedin.com/in/anthonymoi/",
     "source_platform": "linkedin",
-    "fetched_at": "2026-11-11T15:11:26.971901+00:00",
-    "collection_method": "linkedin_public_guest_view_http",
+    "fetched_at": "2026-11-11T16:18:52.183951+00:00",
+    "collection_method": "linkedin_authenticated_snapshot",
     "verification_status": "verified_against_linkedin_authenticated_snapshot",
     "field_level_availability": {
       "basic_info.full_name": {
@@ -781,8 +781,8 @@
     "person_id": "hf_005",
     "profile_url": "https://www.linkedin.com/in/assafvayner/",
     "source_platform": "linkedin",
-    "fetched_at": "2026-11-11T15:11:27.638673+00:00",
-    "collection_method": "linkedin_public_guest_view_http",
+    "fetched_at": "2026-11-11T16:18:53.357358+00:00",
+    "collection_method": "linkedin_authenticated_snapshot",
     "verification_status": "verified_against_linkedin_authenticated_snapshot",
     "field_level_availability": {
       "basic_info.full_name": {
@@ -966,8 +966,8 @@
     "person_id": "hf_006",
     "profile_url": "https://www.linkedin.com/in/ngxson/",
     "source_platform": "linkedin",
-    "fetched_at": "2026-11-11T15:11:27.869380+00:00",
-    "collection_method": "linkedin_public_guest_view_http",
+    "fetched_at": "2026-11-11T16:18:55.370116+00:00",
+    "collection_method": "linkedin_authenticated_snapshot",
     "verification_status": "verified_against_linkedin_authenticated_snapshot",
     "field_level_availability": {
       "basic_info.full_name": {
@@ -1152,8 +1152,8 @@
     "person_id": "hf_007",
     "profile_url": "https://www.linkedin.com/in/clementdelangue/",
     "source_platform": "linkedin",
-    "fetched_at": "2026-11-11T15:11:28.708387+00:00",
-    "collection_method": "linkedin_public_guest_view_http",
+    "fetched_at": "2026-11-11T16:18:57.590519+00:00",
+    "collection_method": "linkedin_authenticated_snapshot",
     "verification_status": "verified_against_linkedin_authenticated_snapshot",
     "field_level_availability": {
       "basic_info.full_name": {
@@ -1364,8 +1364,8 @@
     "person_id": "hf_008",
     "profile_url": "https://www.linkedin.com/in/irene-solaiman/",
     "source_platform": "linkedin",
-    "fetched_at": "2026-11-11T15:11:30.317688+00:00",
-    "collection_method": "linkedin_public_guest_view_http",
+    "fetched_at": "2026-11-11T16:19:01.376093+00:00",
+    "collection_method": "linkedin_authenticated_snapshot",
     "verification_status": "verified_against_linkedin_authenticated_snapshot",
     "field_level_availability": {
       "basic_info.full_name": {
@@ -1576,8 +1576,8 @@
     "person_id": "hf_009",
     "profile_url": "https://www.linkedin.com/in/jeffboudier/",
     "source_platform": "linkedin",
-    "fetched_at": "2026-11-11T15:11:30.833399+00:00",
-    "collection_method": "linkedin_public_guest_view_http",
+    "fetched_at": "2026-11-11T16:19:03.034169+00:00",
+    "collection_method": "linkedin_authenticated_snapshot",
     "verification_status": "verified_against_linkedin_authenticated_snapshot",
     "field_level_availability": {
       "basic_info.full_name": {
@@ -1770,8 +1770,8 @@
     "person_id": "hf_010",
     "profile_url": "https://www.linkedin.com/in/alejandro-ao/",
     "source_platform": "linkedin",
-    "fetched_at": "2026-11-11T15:11:31.238855+00:00",
-    "collection_method": "linkedin_public_guest_view_http",
+    "fetched_at": "2026-11-11T16:19:04.476488+00:00",
+    "collection_method": "linkedin_authenticated_snapshot",
     "verification_status": "verified_against_linkedin_authenticated_snapshot",
     "field_level_availability": {
       "basic_info.full_name": {

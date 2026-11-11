@@ -2,8 +2,8 @@
   "person_id": "hf_008",
   "profile_url": "https://www.linkedin.com/in/irene-solaiman/",
   "source_platform": "linkedin",
-  "fetched_at": "2026-11-11T15:11:30.317688+00:00",
-  "collection_method": "linkedin_public_guest_view_http",
+  "fetched_at": "2026-11-11T16:19:01.376093+00:00",
+  "collection_method": "linkedin_authenticated_snapshot",
   "verification_status": "verified_against_linkedin_authenticated_snapshot",
   "field_level_availability": {
     "basic_info.full_name": {
