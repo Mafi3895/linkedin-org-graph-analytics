@@ -1,0 +1,25 @@
+# Byte-compiled / Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest & coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Browser complete-save static assets & root scratch snapshots
+data/raw/profiles/*_files/
+linkedin_anton.html
+linkedin_googlebot.html
+
+# OS & IDE metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
