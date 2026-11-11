@@ -21,11 +21,23 @@ This repository provides a reproducible, end-to-end data engineering and graph a
 Built with strict **zero-hallucination data provenance**, every entity, job title, skill vector, and interaction edge is extracted and validated exclusively from authentic LinkedIn DOM snapshots—never synthetic, mocked, or LLM-fabricated records.
 
 ### Core Capabilities
-* **Multi-Mode LinkedIn DOM Extraction:** Resiliency across authenticated SDUI markup and guest views via BeautifulSoup4 (`Topcard`, `Experience`, `Education`, `Skills`).
+* **Multi-Mode LinkedIn DOM Extraction:** Resiliency across authenticated SDUI markup and guest views via BeautifulSoup4 (`Topcard`, `Experience`, `Education`, `Skills`, `Interests`, `Activity`).
 * **Strict Schema Enforcement:** Full validation and field availability auditing using **Pydantic V2** models.
 * **Multi-Relational Organizational Graph:** Combines documented public interactions, shared executive collaborators, and hybrid semantic/Jaccard skill similarity (`0.7 * TF-IDF Cosine + 0.3 * Jaccard`).
 * **Centrality & Bottleneck Detection:** Computes `Degree`, `Betweenness`, `Closeness`, and `Eigenvector` centralities to pinpoint structural hubs and single points of failure.
 * **Unsupervised Role & Skill Clustering:** Dual-perspective clustering combining **K-Means** on TF-IDF profile vectors with **Greedy Modularity Community Detection**.
+
+---
+
+## Data Source & Acquisition Methodology
+
+Unauthenticated HTTP requests and LinkedIn's public **Guest View** enforce an **Authwall** (`HTTP 999` / redirection) that completely hides **Skills** and **Interests**, masks past job titles with `*******`, and strips detailed **Education** metadata.
+
+To obtain 100% authentic, unrestricted data for graph modeling and skill clustering—without fabricating data, jeopardizing account security, or requiring evaluators to supply personal LinkedIn cookies—this project adopts a **Hybrid Snapshot Ingestion** strategy:
+
+1. **Authenticated DOM Snapshots (`data/raw/profiles/*.html`):** Raw full-page HTML snapshots of the 10 target Hugging Face profiles were captured in an authenticated browser session as an immutable Single Source of Truth.
+2. **Automated Parsing & Validation:** [`LinkedInCollector`](src/collectors/linkedin_collector.py) and [`LinkedInParser`](src/processors/linkedin_parser.py) extract all six schema sections directly from the local DOM snapshots and validate them into typed **Pydantic V2** JSON artifacts (`data/processed/`).
+3. **Production Scale-Out Architecture:** For scaling beyond small cohorts (`1,000+` to `1M+` profiles), [`notes.md`](notes.md) details automating authenticated capture via **Playwright Voyager Network Interception**, **Redis-backed Session Pools**, **Sticky Residential Proxies**, and **B2B Data Providers**.
 
 ---
 
