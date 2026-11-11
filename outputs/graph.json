@@ -1,0 +1,418 @@
+{
+  "graph_summary": {
+    "total_nodes": 10,
+    "total_edges": 19,
+    "density": 0.4222,
+    "is_connected": true
+  },
+  "nodes": [
+    {
+      "id": "hf_001",
+      "name": "Anton Lozhkov",
+      "job_title": "Machine Learning Engineer",
+      "department": "AI / ML",
+      "cluster_id": 2,
+      "cluster_label": "AI / ML Research & Modeling",
+      "centrality": {
+        "degree": 0.4444,
+        "betweenness": 0.0,
+        "closeness": 0.3284,
+        "eigenvector": 0.3698
+      },
+      "skills": [
+        "Python",
+        "Data Science"
+      ],
+      "headline": "Machine Learning Engineer – Hugging Face"
+    },
+    {
+      "id": "hf_002",
+      "name": "Dario Salvati 🏴‍☠️",
+      "job_title": "Machine Learning Engineer",
+      "department": "AI / ML",
+      "cluster_id": 2,
+      "cluster_label": "AI / ML Research & Modeling",
+      "centrality": {
+        "degree": 0.5556,
+        "betweenness": 0.0,
+        "closeness": 0.355,
+        "eigenvector": 0.2946
+      },
+      "skills": [
+        "Microsoft Azure",
+        "MLOps Platforms: Amazon SageMaker and Azure ML",
+        "1 endorsement",
+        "Amazon Web Services (AWS)"
+      ],
+      "headline": "MLE @ 🤗, ex-Domyn | Opinions are my own"
+    },
+    {
+      "id": "hf_003",
+      "name": "Nouamane Tazi",
+      "job_title": "Machine Learning Engineer",
+      "department": "AI / ML",
+      "cluster_id": 2,
+      "cluster_label": "AI / ML Research & Modeling",
+      "centrality": {
+        "degree": 0.4444,
+        "betweenness": 0.0,
+        "closeness": 0.3357,
+        "eigenvector": 0.3795
+      },
+      "skills": [
+        "Machine Learning",
+        "Machine Learning Engineer at Hugging Face",
+        "Deep Learning"
+      ],
+      "headline": "ML Research Engineer at Hugging Face 🤗"
+    },
+    {
+      "id": "hf_004",
+      "name": "Anthony MOI",
+      "job_title": "Software Engineer",
+      "department": "Software Engineering",
+      "cluster_id": 0,
+      "cluster_label": "Infrastructure, Systems & DevRel",
+      "centrality": {
+        "degree": 0.7778,
+        "betweenness": 0.4722,
+        "closeness": 0.4602,
+        "eigenvector": 0.4912
+      },
+      "skills": [
+        "JavaScript",
+        "Node.js"
+      ],
+      "headline": "Software Engineer at Hugging Face"
+    },
+    {
+      "id": "hf_005",
+      "name": "Assaf Vayner",
+      "job_title": "Software Engineer",
+      "department": "Software Engineering",
+      "cluster_id": 0,
+      "cluster_label": "Infrastructure, Systems & DevRel",
+      "centrality": {
+        "degree": 0.5556,
+        "betweenness": 0.0,
+        "closeness": 0.3072,
+        "eigenvector": 0.2879
+      },
+      "skills": [
+        "Infrastructure as code (IaC)",
+        "Software Engineer at XetHub",
+        "Rust (Programming Language)"
+      ],
+      "headline": "Software Engineer @ Hugging Face 🤗"
+    },
+    {
+      "id": "hf_006",
+      "name": "Xuan-Son Nguyen",
+      "job_title": "Ingénieur logiciel",
+      "department": "Software Engineering",
+      "cluster_id": 0,
+      "cluster_label": "Infrastructure, Systems & DevRel",
+      "centrality": {
+        "degree": 0.2222,
+        "betweenness": 0.0,
+        "closeness": 0.2748,
+        "eigenvector": 0.1271
+      },
+      "skills": [
+        "Hugging Face",
+        "1 endorsement",
+        "JavaScript",
+        "Passed LinkedIn Skill Assessment"
+      ],
+      "headline": "Engineer @ Hugging Face 🤗"
+    },
+    {
+      "id": "hf_007",
+      "name": "Clem Delangue 🤗",
+      "job_title": "Co-founder & CEO",
+      "department": "Management & Leadership",
+      "cluster_id": 1,
+      "cluster_label": "Executive Leadership, Product & Policy",
+      "centrality": {
+        "degree": 0.3333,
+        "betweenness": 0.4722,
+        "closeness": 0.4829,
+        "eigenvector": 0.3506
+      },
+      "skills": [
+        "Entrepreneurship",
+        "Start-ups"
+      ],
+      "headline": "Co-founder & CEO at Hugging Face"
+    },
+    {
+      "id": "hf_008",
+      "name": "Irene Solaiman",
+      "job_title": "Chief Policy Officer and SVP of Strategy",
+      "department": "Policy & Strategy",
+      "cluster_id": 1,
+      "cluster_label": "Executive Leadership, Product & Policy",
+      "centrality": {
+        "degree": 0.1111,
+        "betweenness": 0.0,
+        "closeness": 0.3271,
+        "eigenvector": 0.1291
+      },
+      "skills": [
+        "Public Speaking",
+        "Negotiation"
+      ],
+      "headline": "CPO/SVP Strategy at Hugging Face"
+    },
+    {
+      "id": "hf_009",
+      "name": "Jeff Boudier",
+      "job_title": "Product + Growth",
+      "department": "Product & Growth",
+      "cluster_id": 1,
+      "cluster_label": "Executive Leadership, Product & Policy",
+      "centrality": {
+        "degree": 0.3333,
+        "betweenness": 0.3611,
+        "closeness": 0.4353,
+        "eigenvector": 0.3297
+      },
+      "skills": [
+        "Online Advertising",
+        "Business Analysis",
+        "1 endorsement"
+      ],
+      "headline": "Product + Growth at Hugging Face"
+    },
+    {
+      "id": "hf_010",
+      "name": "Alejandro AO",
+      "job_title": "Developer Advocate",
+      "department": "Developer Advocacy",
+      "cluster_id": 0,
+      "cluster_label": "Infrastructure, Systems & DevRel",
+      "centrality": {
+        "degree": 0.4444,
+        "betweenness": 0.1111,
+        "closeness": 0.3213,
+        "eigenvector": 0.2094
+      },
+      "skills": [
+        "Keynote Speaking",
+        "Communication"
+      ],
+      "headline": "AI Education | Developer Advocate | Speaker"
+    }
+  ],
+  "edges": [
+    {
+      "edge_id": "edge_001",
+      "source_person_id": "hf_001",
+      "source_name": "Anton Lozhkov",
+      "target_person_id": "hf_003",
+      "target_name": "Nouamane Tazi",
+      "relationship_type": "direct_interaction",
+      "weight": 1.0,
+      "evidence": "Research co-authorship and core collaborative maintenance of StarCoder 2 and SmolLM/SmolLM2.",
+      "source_url": "https://huggingface.co/blog/smollm"
+    },
+    {
+      "edge_id": "edge_002",
+      "source_person_id": "hf_001",
+      "source_name": "Anton Lozhkov",
+      "target_person_id": "hf_004",
+      "target_name": "Anthony MOI",
+      "relationship_type": "shared_collaborator",
+      "weight": 0.729,
+      "evidence": "Core repository collaboration and shared interactions with Science Lead Thomas Wolf.",
+      "source_url": "https://github.com/huggingface"
+    },
+    {
+      "edge_id": "edge_003",
+      "source_person_id": "hf_001",
+      "source_name": "Anton Lozhkov",
+      "target_person_id": "hf_002",
+      "target_name": "Dario Salvati 🏴‍☠️",
+      "relationship_type": "skill_similarity",
+      "weight": 0.313,
+      "evidence": "Semantic skill similarity score: 0.313",
+      "source_url": null
+    },
+    {
+      "edge_id": "edge_004",
+      "source_person_id": "hf_001",
+      "source_name": "Anton Lozhkov",
+      "target_person_id": "hf_005",
+      "target_name": "Assaf Vayner",
+      "relationship_type": "skill_similarity",
+      "weight": 0.258,
+      "evidence": "Semantic skill similarity score: 0.258",
+      "source_url": null
+    },
+    {
+      "edge_id": "edge_005",
+      "source_person_id": "hf_002",
+      "source_name": "Dario Salvati 🏴‍☠️",
+      "target_person_id": "hf_009",
+      "target_name": "Jeff Boudier",
+      "relationship_type": "direct_interaction",
+      "weight": 1.0,
+      "evidence": "Public hiring welcome interaction and comment exchange on LinkedIn.",
+      "source_url": "https://www.linkedin.com/posts/dwarez_today-im-starting-as-a-machine-learning-activity-7465330082182488065-gT1M"
+    },
+    {
+      "edge_id": "edge_006",
+      "source_person_id": "hf_002",
+      "source_name": "Dario Salvati 🏴‍☠️",
+      "target_person_id": "hf_003",
+      "target_name": "Nouamane Tazi",
+      "relationship_type": "skill_similarity",
+      "weight": 0.381,
+      "evidence": "Semantic skill similarity score: 0.381",
+      "source_url": null
+    },
+    {
+      "edge_id": "edge_007",
+      "source_person_id": "hf_002",
+      "source_name": "Dario Salvati 🏴‍☠️",
+      "target_person_id": "hf_004",
+      "target_name": "Anthony MOI",
+      "relationship_type": "skill_similarity",
+      "weight": 0.163,
+      "evidence": "Semantic skill similarity score: 0.163",
+      "source_url": null
+    },
+    {
+      "edge_id": "edge_008",
+      "source_person_id": "hf_002",
+      "source_name": "Dario Salvati 🏴‍☠️",
+      "target_person_id": "hf_005",
+      "target_name": "Assaf Vayner",
+      "relationship_type": "skill_similarity",
+      "weight": 0.174,
+      "evidence": "Semantic skill similarity score: 0.174",
+      "source_url": null
+    },
+    {
+      "edge_id": "edge_009",
+      "source_person_id": "hf_003",
+      "source_name": "Nouamane Tazi",
+      "target_person_id": "hf_004",
+      "target_name": "Anthony MOI",
+      "relationship_type": "shared_collaborator",
+      "weight": 0.731,
+      "evidence": "Shared co-founder content reposting (Thomas Wolf) and core Hugging Face infrastructure.",
+      "source_url": "https://www.linkedin.com/in/nouamanetazi/"
+    },
+    {
+      "edge_id": "edge_010",
+      "source_person_id": "hf_003",
+      "source_name": "Nouamane Tazi",
+      "target_person_id": "hf_005",
+      "target_name": "Assaf Vayner",
+      "relationship_type": "skill_similarity",
+      "weight": 0.301,
+      "evidence": "Semantic skill similarity score: 0.301",
+      "source_url": null
+    },
+    {
+      "edge_id": "edge_011",
+      "source_person_id": "hf_004",
+      "source_name": "Anthony MOI",
+      "target_person_id": "hf_007",
+      "target_name": "Clem Delangue 🤗",
+      "relationship_type": "direct_interaction",
+      "weight": 0.85,
+      "evidence": "Founding engineering leadership reporting directly to CEO since early Hugging Face inception (8+ years).",
+      "source_url": "https://www.linkedin.com/in/anthonymoi/"
+    },
+    {
+      "edge_id": "edge_012",
+      "source_person_id": "hf_004",
+      "source_name": "Anthony MOI",
+      "target_person_id": "hf_005",
+      "target_name": "Assaf Vayner",
+      "relationship_type": "shared_collaborator",
+      "weight": 0.808,
+      "evidence": "Infrastructure engineering collaboration under CTO Julien Chaumond and XetHub integration.",
+      "source_url": "https://www.linkedin.com/in/assafvayner/"
+    },
+    {
+      "edge_id": "edge_013",
+      "source_person_id": "hf_004",
+      "source_name": "Anthony MOI",
+      "target_person_id": "hf_006",
+      "target_name": "Xuan-Son Nguyen",
+      "relationship_type": "skill_similarity",
+      "weight": 0.302,
+      "evidence": "Semantic skill similarity score: 0.302",
+      "source_url": null
+    },
+    {
+      "edge_id": "edge_014",
+      "source_person_id": "hf_004",
+      "source_name": "Anthony MOI",
+      "target_person_id": "hf_010",
+      "target_name": "Alejandro AO",
+      "relationship_type": "skill_similarity",
+      "weight": 0.176,
+      "evidence": "Semantic skill similarity score: 0.176",
+      "source_url": null
+    },
+    {
+      "edge_id": "edge_015",
+      "source_person_id": "hf_005",
+      "source_name": "Assaf Vayner",
+      "target_person_id": "hf_010",
+      "target_name": "Alejandro AO",
+      "relationship_type": "skill_similarity",
+      "weight": 0.22,
+      "evidence": "Semantic skill similarity score: 0.22",
+      "source_url": null
+    },
+    {
+      "edge_id": "edge_016",
+      "source_person_id": "hf_006",
+      "source_name": "Xuan-Son Nguyen",
+      "target_person_id": "hf_010",
+      "target_name": "Alejandro AO",
+      "relationship_type": "direct_interaction",
+      "weight": 0.775,
+      "evidence": "Technical open-source model demonstrations and developer tutorials around local LLM inference.",
+      "source_url": "https://www.linkedin.com/in/alejandro-ao/"
+    },
+    {
+      "edge_id": "edge_017",
+      "source_person_id": "hf_007",
+      "source_name": "Clem Delangue 🤗",
+      "target_person_id": "hf_009",
+      "target_name": "Jeff Boudier",
+      "relationship_type": "direct_interaction",
+      "weight": 0.981,
+      "evidence": "Executive leadership alignment on commercial partnerships, enterprise growth, and product launches.",
+      "source_url": "https://www.linkedin.com/in/clementdelangue/"
+    },
+    {
+      "edge_id": "edge_018",
+      "source_person_id": "hf_007",
+      "source_name": "Clem Delangue 🤗",
+      "target_person_id": "hf_008",
+      "target_name": "Irene Solaiman",
+      "relationship_type": "direct_interaction",
+      "weight": 0.9,
+      "evidence": "Executive collaboration between CEO and Chief Policy Officer on global AI governance and safety.",
+      "source_url": "https://www.linkedin.com/in/irene-solaiman/"
+    },
+    {
+      "edge_id": "edge_019",
+      "source_person_id": "hf_009",
+      "source_name": "Jeff Boudier",
+      "target_person_id": "hf_010",
+      "target_name": "Alejandro AO",
+      "relationship_type": "shared_collaborator",
+      "weight": 0.8,
+      "evidence": "Product Marketing and Developer Relations cross-functional collaboration on developer adoption.",
+      "source_url": "https://www.linkedin.com/in/jeffboudier/"
+    }
+  ]
+}
